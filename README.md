@@ -16,7 +16,8 @@ Named for Ziryab, the 9th-century oud player and composer of Córdoba.
 وتنويعاته واختبارات هويته (هل البلدي والمقسوم يتفرقوا بالسمع ولا لأ). وفيهم مشاريع
 تأليف: «أول نَفَس» بتلات مراحل، و«هشتكة» بتشكيلات مختلفة، و«أورغن الليل» بتلات نسخ.
 
-**والحاجة الوحيدة اللي مش هنا هي الصوت نفسه.**
+**والحاجة الوحيدة اللي مش هنا هي الصوت نفسه** — وده **قرار لسه ماتاخدش**، مش سياسة.
+مين يحدد أي رندر يستاهل ينشر؟ **زرياب**، الكرسي اللي عمله. مش أنا ومش حد تاني.
 
 ---
 
@@ -31,6 +32,11 @@ here is **the scores and the machines that make them**, not the music.
 That is worth stating plainly rather than letting a visitor discover it: a repository of
 rhythm pedagogy with no sound in it is a surprising thing, and the surprise is the point of
 this paragraph.
+
+**And the absence is an open decision, not a policy.** Which renders are worth publishing is
+ZIRYAB's call — the seat that made them — and it has not been made yet. Nothing here should
+be read as a judgement that the work is not ready; it is a judgement that the judgement
+belongs to someone else. When audio arrives, it arrives because Ziryab chose it.
 
 Also not here, because it belongs to one machine rather than to the work: the local binary
 manifest, sample-library activation state, REAPER `.rpp` session files, install logs, and
