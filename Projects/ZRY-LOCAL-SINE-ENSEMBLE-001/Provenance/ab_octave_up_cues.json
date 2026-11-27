@@ -1,0 +1,74 @@
+[
+ {
+  "start_s": 0.0,
+  "instrument": "Crux_JBass",
+  "version": "original",
+  "gain_db": 9.42
+ },
+ {
+  "start_s": 10.5,
+  "instrument": "Crux_JBass",
+  "version": "octave-up",
+  "gain_db": 7.26
+ },
+ {
+  "start_s": 21.5,
+  "instrument": "Crux_MMBass",
+  "version": "original",
+  "gain_db": 11.67
+ },
+ {
+  "start_s": 32.0,
+  "instrument": "Crux_MMBass",
+  "version": "octave-up",
+  "gain_db": 11.59
+ },
+ {
+  "start_s": 43.0,
+  "instrument": "Crux_PBass",
+  "version": "original",
+  "gain_db": 7.56
+ },
+ {
+  "start_s": 53.5,
+  "instrument": "Crux_PBass",
+  "version": "octave-up",
+  "gain_db": 8.87
+ },
+ {
+  "start_s": 64.5,
+  "instrument": "Crux_VBass",
+  "version": "original",
+  "gain_db": 0.72
+ },
+ {
+  "start_s": 75.0,
+  "instrument": "Crux_VBass",
+  "version": "octave-up",
+  "gain_db": 8.48
+ },
+ {
+  "start_s": 86.0,
+  "instrument": "Clutch_Organ",
+  "version": "original",
+  "gain_db": 9.22
+ },
+ {
+  "start_s": 96.5,
+  "instrument": "Clutch_Organ",
+  "version": "octave-up",
+  "gain_db": 9.4
+ },
+ {
+  "start_s": 107.5,
+  "instrument": "Crucible_ChurchOrgan",
+  "version": "original",
+  "gain_db": -2.99
+ },
+ {
+  "start_s": 118.0,
+  "instrument": "Crucible_ChurchOrgan",
+  "version": "octave-up",
+  "gain_db": -2.64
+ }
+]

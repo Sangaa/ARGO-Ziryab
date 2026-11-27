@@ -1,0 +1,29 @@
+{
+  "organ": {
+    "active_in_db": -33.397241017365516,
+    "target_db": -20.5,
+    "gain_db": 12.897241017365522
+  },
+  "trumpet": {
+    "active_in_db": -50.286244581825734,
+    "target_db": -19.5,
+    "gain_db": 30.786244581825738
+  },
+  "bass": {
+    "active_in_db": -31.726040856024884,
+    "target_db": -23.5,
+    "gain_db": 8.226040856024882
+  },
+  "tabla": {
+    "active_in_db": -22.38245820319807,
+    "target_db": -24.0,
+    "gain_db": -1.617541796801932
+  },
+  "master": {
+    "gain_db": -5.009508295295343,
+    "peak_dbfs": -1.1999999999999993,
+    "rms_dbfs": -22.999028740242792,
+    "duration_sec": 38.0,
+    "output": "%ZIRYAB_SAMPLES%\\ZIRYAB-NIGHT-ORGAN-001.wav"
+  }
+}

@@ -1,0 +1,97 @@
+[
+ {
+  "start_s": 0.0,
+  "file": "ZRY-LOCAL-SINE-RATIO-001/Renders/ZRY-LOCAL-SINE-RATIO-001.wav",
+  "gain_db": 4.5
+ },
+ {
+  "start_s": 10.5,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Helix_Strings.wav",
+  "gain_db": 17.16
+ },
+ {
+  "start_s": 21.0,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Lucent_Flute.wav",
+  "gain_db": 21.74
+ },
+ {
+  "start_s": 31.5,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Manifold_Female.wav",
+  "gain_db": 6.48
+ },
+ {
+  "start_s": 42.0,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Manifold_Male.wav",
+  "gain_db": 8.57
+ },
+ {
+  "start_s": 52.5,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Strand_Nylon.wav",
+  "gain_db": 0.49
+ },
+ {
+  "start_s": 63.0,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Strand_Steel.wav",
+  "gain_db": -0.44
+ },
+ {
+  "start_s": 73.5,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Crux_JBass.wav",
+  "gain_db": 8.3
+ },
+ {
+  "start_s": 84.0,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Crux_MMBass.wav",
+  "gain_db": 11.03
+ },
+ {
+  "start_s": 94.5,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Crux_PBass.wav",
+  "gain_db": 10.03
+ },
+ {
+  "start_s": 105.0,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Crux_VBass.wav",
+  "gain_db": -1.28
+ },
+ {
+  "start_s": 115.5,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Clutch_Organ.wav",
+  "gain_db": 12.04
+ },
+ {
+  "start_s": 126.0,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Crucible_ChurchOrgan.wav",
+  "gain_db": -1.05
+ },
+ {
+  "start_s": 136.5,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Rotary_SoloTrumpet.wav",
+  "gain_db": 23.02
+ },
+ {
+  "start_s": 147.0,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Rotary_TrumpetMute.wav",
+  "gain_db": 24.53
+ },
+ {
+  "start_s": 157.5,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Rotary_TromboneSolo.wav",
+  "gain_db": 26.21
+ },
+ {
+  "start_s": 168.0,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Rotary_BaritoneSax.wav",
+  "gain_db": 21.79
+ },
+ {
+  "start_s": 178.5,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Rotary_SaxSection.wav",
+  "gain_db": 11.82
+ },
+ {
+  "start_s": 189.0,
+  "file": "ZRY-LOCAL-SINE-ENSEMBLE-001/Renders/ZRY-SINE-Rotary_BrassSection.wav",
+  "gain_db": 18.45
+ }
+]

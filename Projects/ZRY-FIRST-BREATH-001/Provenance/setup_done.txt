@@ -1,0 +1,7 @@
+tempo_marker_count=1
+qn132_time=0.0000
+1	Strand_Nylon	NAFAS-gtr.mid	srclen=0.0000	isqn=true	fx=0
+2	Lucent_Flute	NAFAS-flt.mid	srclen=0.0000	isqn=true	fx=0
+3	Helix_Strings	NAFAS-str.mid	srclen=0.0000	isqn=true	fx=0
+4	Ratio_Piano	NAFAS-pno.mid	srclen=0.0000	isqn=true	fx=0
+5	Crux_JBass	NAFAS-bas.mid	srclen=0.0000	isqn=true	fx=0

@@ -1,0 +1,56 @@
+fx=0
+fxname=VSTi: DSK Strings (x86) (DSK Music)
+preset_index=0 preset_count=8
+preset 0 Simply Cello
+preset 1 Simply ContraBass
+preset 2 Simply Viola
+preset 3 Simply Violin
+preset 4 Cello Section (P)
+preset 5 Contrabass Section (P)
+preset 6 Viola Section (P)
+preset 7 Violin Section (P)
+params=44
+param 0 name=A norm=0.085000 fmt=0.85
+param 1 name=A norm=0.195000 fmt=1.95
+param 2 name=Bend Range norm=1.000000 fmt=12
+param 3 name=D norm=0.500000 fmt=5.00
+param 4 name=D norm=0.410000 fmt=4.10
+param 5 name=DSK norm=0.000000 fmt=0.0
+param 6 name=Damp norm=0.497318 fmt=4.97
+param 7 name=FeedBack norm=0.165869 fmt=1.66
+param 8 name=FeedBack norm=0.315103 fmt=1.58
+param 9 name=FeedBack norm=0.135261 fmt=1.35
+param 10 name=FeedBack norm=0.361555 fmt=1.81
+param 11 name=Fine norm=0.504618 fmt=0.0002
+param 12 name=Fine norm=0.500448 fmt=0.0000
+param 13 name=Frquency norm=0.523469 fmt=-3.34
+param 14 name=Frquency norm=0.743898 fmt=-1.79
+param 15 name=Gate norm=0.506557 fmt=5.07
+param 16 name=Level norm=0.825000 fmt=8.25
+param 17 name=Level norm=0.480000 fmt=4.80
+param 18 name=List norm=0.761905 fmt=17 - Violin Section (P)
+param 19 name=List norm=0.714286 fmt=16 - Violin Section (F)
+param 20 name=Master level norm=1.000000 fmt=5.00
+param 21 name=Mix norm=0.522961 fmt=0.23
+param 22 name=Mix norm=0.239427 fmt=0.24
+param 23 name=Mix norm=0.221017 fmt=0.22
+param 24 name=Mix norm=0.461103 fmt=4.61
+param 25 name=Mix norm=0.696046 fmt=6.96
+param 26 name=Modulation norm=0.229720 fmt=-2.70
+param 27 name=Modulation norm=0.113852 fmt=-3.86
+param 28 name=Mono Mode norm=1.000000 fmt=Off
+param 29 name=OCTAVE norm=0.400000 fmt=0
+param 30 name=OCTAVE norm=0.400000 fmt=0
+param 31 name=Portamento Time norm=0.000000 fmt=0.0
+param 32 name=R norm=0.000000 fmt=0.0
+param 33 name=R norm=0.640000 fmt=6.40
+param 34 name=Retrigger norm=0.000000 fmt=On
+param 35 name=S norm=0.689999 fmt=6.90
+param 36 name=S norm=0.420000 fmt=4.20
+param 37 name=Size norm=0.513847 fmt=5.14
+param 38 name=Spread norm=0.974999 fmt=9.75
+param 39 name=Spread norm=0.739999 fmt=7.40
+param 40 name=Width norm=0.501765 fmt=5.02
+param 41 name=Bypass norm=0.000000 fmt=normal
+param 42 name=Wet norm=1.000000 fmt=100
+param 43 name=Delta norm=0.000000 fmt=normal

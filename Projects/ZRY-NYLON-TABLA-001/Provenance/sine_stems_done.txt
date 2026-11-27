@@ -1,0 +1,2 @@
+guitar_notes=119
+bass_notes=33

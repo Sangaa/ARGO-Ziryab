@@ -1,0 +1,30 @@
+{
+  "bpm": 92,
+  "grid": "8 eighth-note slots per 4/4 bar",
+  "bars_each": 4,
+  "patterns": [
+    {
+      "name": "MAQSUM",
+      "start": 0.4,
+      "end": 10.835,
+      "pattern": "D T - T D - T -"
+    },
+    {
+      "name": "BALADI",
+      "start": 12.139,
+      "end": 22.574,
+      "pattern": "D D - T D - T -"
+    },
+    {
+      "name": "SAIDI",
+      "start": 23.878,
+      "end": 34.313,
+      "pattern": "D T - D D - T -"
+    }
+  ],
+  "ornaments": 0,
+  "kah": 0,
+  "rolls": 0,
+  "ghosts": 0,
+  "humanization_ms": 0
+}

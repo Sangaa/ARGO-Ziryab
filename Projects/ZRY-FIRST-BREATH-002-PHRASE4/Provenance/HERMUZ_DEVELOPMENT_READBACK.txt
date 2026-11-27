@@ -1,0 +1,20 @@
+FIRST BREATH 002 PHRASE4 — TECHNICAL DEVELOPMENT
+2026-10-10
+SOURCE: ZRY-FIRST-BREATH-001 (source project and reference unchanged)
+ZIRYAB artistic authority: 9d194b32e6bfe16d6f5352b86f09103b45ccef73
+VERSION: ONE development copy
+RESULT: completed five stems and one mix render, 74 sec, 44.1kHz stereo 24-bit WAV; render_done.txt present.
+
+Phrase 4 interpretation: initial guitar phrase at quarter-note beat QN 18–24 (ascending contour MIDI pitches 45,52,57 at QN 18,19,20). Its transposed identity as flute notes 69,76,81 at QN 111.5,113.4,115.3 (rhythmic intervals altered and moved into a new instrument/register). This identification of 'fourth phrase' is an operational interpretation, not separately confirmed by ZIRYAB.
+Authored final sentence in flute: MIDI pitches 74 -> 72 -> 69 at QN 129.1,132,135, ending at QN 138.5. Ending A sustains an open final color rather than a showy tonic.
+Original flute and other MIDI notes retained. Flute MIDI copy only changed in a separately named project folder.
+Playback balance for listening draft: guitar -10 dB, flute +11 dB, strings +3 dB, piano 0 dB, bass +2 dB. Guitar dynamically attenuated up to additional -3.5 dB following flute signal with ~1.5s smoothed activity envelope. Global headroom -1.55 dB applied (peak -6.0 dBFS). The raw mix and five stems remain separately preserved in this development copy. No per-instrument peak normalizing.
+LISTENING DRAFT:
+%ZIRYAB_STUDIO%\Projects\ZRY-FIRST-BREATH-002-PHRASE4\Renders\ZRY-FIRST-BREATH-002-PHRASE4-LISTENING-DRAFT.wav
+
+Limitations:
+- The artistic merit, exact phrase-4 interpretive identity, and ending fit have NOT been listener-verified.
+- New composed notes are HERMUZ's technical realization for ZIRYAB adjudication, not a claim that ZIRYAB composed these exact notes.
+- Do not overwrite either original Claude synth reference or First Breath 001.
+- User listening feedback is requested only after ZIRYAB can consume the deliverable; no claim of remote automatic inter-agent delivery.
+Human Action Required = NONE for technical build.

@@ -1,0 +1,55 @@
+PROJECT=ZRY-LOCAL-SINE-ENSEMBLE-001.rpp
+TRACK=Helix_Strings MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={8C9DC82A-9622-4A56-A906-C54756F0F1AE} io_ok=3 input_pins=0 output_pins=32
+TRACK=Lucent_Flute MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={C306AD63-953F-4495-9FE2-27891BC73A76} io_ok=3 input_pins=0 output_pins=32
+TRACK=Manifold_Female MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={B9EBEE02-9732-457C-A7BC-26FAC942EC48} io_ok=3 input_pins=0 output_pins=32
+TRACK=Manifold_Male MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={864C38FA-C633-48B5-A1F3-21B031E4648C} io_ok=3 input_pins=0 output_pins=32
+TRACK=Strand_Nylon MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={EA926235-9543-4CC5-99A7-884700ED1503} io_ok=3 input_pins=0 output_pins=32
+TRACK=Strand_Steel MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={88D0266D-4BDC-4D86-B23F-ACF44928538E} io_ok=3 input_pins=0 output_pins=32
+TRACK=Crux_JBass MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={2E8E579D-E03A-4F95-BFC2-C6506A0F3060} io_ok=3 input_pins=0 output_pins=32
+TRACK=Crux_MMBass MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={E057BD9C-C76B-40AB-8E05-62F8E94F42E8} io_ok=3 input_pins=0 output_pins=32
+TRACK=Crux_PBass MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={5B5DEB74-60EF-4272-B0B1-5670879E7263} io_ok=3 input_pins=0 output_pins=32
+TRACK=Crux_VBass MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={EEBD11B8-9900-422C-BBA4-4896D9722B70} io_ok=3 input_pins=0 output_pins=32
+TRACK=Clutch_Organ MUTE=0.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={D080DC7D-AE37-4F80-9004-F6C5B2BA98AD} io_ok=3 input_pins=0 output_pins=32
+TRACK=Crucible_ChurchOrgan MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={148CD365-4501-48AA-8398-BA31BB58A2C4} io_ok=3 input_pins=0 output_pins=32
+TRACK=Rotary_SoloTrumpet MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={17B48134-1CCF-4DBE-A615-7D29F68F708D} io_ok=3 input_pins=0 output_pins=32
+TRACK=Rotary_TrumpetMute MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={3FC98D9F-5B67-48F8-B847-157D922A6586} io_ok=3 input_pins=0 output_pins=32
+TRACK=Rotary_TromboneSolo MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={4D740256-978A-4F24-8FBF-9EFFF20A1096} io_ok=3 input_pins=0 output_pins=32
+TRACK=Rotary_BaritoneSax MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={F16F9594-16D9-4A53-BF06-9B86F15D4D35} io_ok=3 input_pins=0 output_pins=32
+TRACK=Rotary_SaxSection MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={1F6B55A2-9ADE-47EA-8D01-B5AD5AD155CB} io_ok=3 input_pins=0 output_pins=32
+TRACK=Rotary_BrassSection MUTE=1.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={CE2BD26F-073F-4C5E-B46F-A09E3F8983E7} io_ok=3 input_pins=0 output_pins=32

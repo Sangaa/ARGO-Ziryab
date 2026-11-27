@@ -1,0 +1,19 @@
+{
+    "test_id":  "ZRY-LOCAL-SMOKE-001",
+    "generated_at":  "2026-09-26T00:44:46.3359991+03:00",
+    "musicxml":  "%ZIRYAB_STUDIO%\\Projects\\ZRY-LOCAL-SMOKE-001\\Scores\\ZRY-LOCAL-SMOKE-001.musicxml",
+    "midi":  "%ZIRYAB_STUDIO%\\Projects\\ZRY-LOCAL-SMOKE-001\\MIDI\\ZRY-LOCAL-SMOKE-001.mid",
+    "target_wav":  "%ZIRYAB_STUDIO%\\Projects\\ZRY-LOCAL-SMOKE-001\\Renders\\ZRY-LOCAL-SMOKE-001.wav",
+    "musicxml_sha256":  "59EB5DFFDBE1173BA270E94E9E065AC6E573ACEA9D331623D8917D21E82AF19A",
+    "midi_sha256":  "B83A0885F628629E14015AD8C4C9904F0B520DF8316D2F55A7AF72B9C51E27E2",
+    "museScore_exe":  "C:\\Program Files\\MuseScore 4\\bin\\MuseScore4.exe",
+    "reaper_exe":  "C:\\Program Files\\REAPER (x64)\\reaper.exe",
+    "next":  [
+                 "REAPER opens the MIDI.",
+                 "Choose a single track when prompted.",
+                 "Insert FX \u003e VSTi: ReaSynth (Cockos).",
+                 "Press Play and confirm audible notes.",
+                 "Render master mix to the exact target WAV path stored in this manifest.",
+                 "Run ZIRYAB_SMOKE_FINALIZE.ps1."
+             ]
+}

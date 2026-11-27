@@ -1,0 +1,30 @@
+{
+ "test_id": "ZRY-LOCAL-SMOKE-002-AUTO",
+ "completed_at": "2026-09-26T01:35:41.2492869+03:00",
+ "verdict": "PASS_AUTOMATED_ARTIFACT_CHAIN",
+ "musicxml": {
+  "path": "%ZIRYAB_STUDIO%\\Projects\\ZRY-LOCAL-SMOKE-002-AUTO\\Scores\\ZRY-LOCAL-SMOKE-002-AUTO.musicxml",
+  "sha256": "1F818FF08DBBEBC9813FF3145C44F92560D9F85B58CA8CADBACF823238A7374F"
+ },
+ "midi": {
+  "path": "%ZIRYAB_STUDIO%\\Projects\\ZRY-LOCAL-SMOKE-002-AUTO\\MIDI\\ZRY-LOCAL-SMOKE-002-AUTO.mid",
+  "bytes": 153,
+  "sha256": "B83A0885F628629E14015AD8C4C9904F0B520DF8316D2F55A7AF72B9C51E27E2"
+ },
+ "reaper": {
+  "project": "%ZIRYAB_STUDIO%\\Projects\\ZRY-LOCAL-SMOKE-002-AUTO\\ZRY-LOCAL-SMOKE-002-AUTO.rpp",
+  "reasynth_marker": "fx_index=0\r\nmidi=%ZIRYAB_STUDIO%/Projects/ZRY-LOCAL-SMOKE-002-AUTO/MIDI/ZRY-LOCAL-SMOKE-002-AUTO.mid\r\n"
+ },
+ "wav": {
+  "path": "%ZIRYAB_STUDIO%\\Projects\\ZRY-LOCAL-SMOKE-002-AUTO\\Renders\\ZRY-LOCAL-SMOKE-002-AUTO.wav",
+  "bytes": 1588290,
+  "sha256": "032A96D654168434DAF495AFC8232B36AD8286613147B60E6244CD8190B60C81",
+  "non_silent_check": true
+ },
+ "boundaries": [
+  "No Android SDK/JDK/PATH mutation.",
+  "No external sample library required.",
+  "Automated render proof does not assert artistic quality."
+ ],
+ "_recovery_note": "Recovered 2026-10-08 from a 105,996,152 B smoke_result.json (sha256 C9F3AEC01EF4E7045CE39C2E7A4E48E9979C4FF5D06A1A48F5C76091D6D53E4E) whose reasynth_marker field had serialized PowerShell provider metadata; only that field was reduced to its string value."
+}

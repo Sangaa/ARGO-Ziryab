@@ -1,0 +1,339 @@
+{
+  "lesson": "TABLA FOUNDATION / SAIDI 001",
+  "bpm": 82.0,
+  "meter": "4/4",
+  "grid": "1/16",
+  "bars": 6,
+  "base_pattern": "D - T - | K - D - | D - T - | K - T K",
+  "variation": "OFF",
+  "humanization": "OFF",
+  "microtiming": "NONE",
+  "goal": "make Saidi identity audible before any variation",
+  "articulation_boundary": "K = real Ka-category sample; NOT asserted KAH_LEFT",
+  "events": [
+    {
+      "bar": 1,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 0.0
+    },
+    {
+      "bar": 1,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 0.365854
+    },
+    {
+      "bar": 1,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 0.731707
+    },
+    {
+      "bar": 1,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 1.097561
+    },
+    {
+      "bar": 1,
+      "slot_1based": 9,
+      "stroke": "D",
+      "time_sec": 1.463415
+    },
+    {
+      "bar": 1,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 1.829268
+    },
+    {
+      "bar": 1,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 2.195122
+    },
+    {
+      "bar": 1,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 2.560976
+    },
+    {
+      "bar": 1,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 2.743902
+    },
+    {
+      "bar": 2,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 2.926829
+    },
+    {
+      "bar": 2,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 3.292683
+    },
+    {
+      "bar": 2,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 3.658537
+    },
+    {
+      "bar": 2,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 4.02439
+    },
+    {
+      "bar": 2,
+      "slot_1based": 9,
+      "stroke": "D",
+      "time_sec": 4.390244
+    },
+    {
+      "bar": 2,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 4.756098
+    },
+    {
+      "bar": 2,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 5.121951
+    },
+    {
+      "bar": 2,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 5.487805
+    },
+    {
+      "bar": 2,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 5.670732
+    },
+    {
+      "bar": 3,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 5.853659
+    },
+    {
+      "bar": 3,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 6.219512
+    },
+    {
+      "bar": 3,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 6.585366
+    },
+    {
+      "bar": 3,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 6.95122
+    },
+    {
+      "bar": 3,
+      "slot_1based": 9,
+      "stroke": "D",
+      "time_sec": 7.317073
+    },
+    {
+      "bar": 3,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 7.682927
+    },
+    {
+      "bar": 3,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 8.04878
+    },
+    {
+      "bar": 3,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 8.414634
+    },
+    {
+      "bar": 3,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 8.597561
+    },
+    {
+      "bar": 4,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 8.780488
+    },
+    {
+      "bar": 4,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 9.146341
+    },
+    {
+      "bar": 4,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 9.512195
+    },
+    {
+      "bar": 4,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 9.878049
+    },
+    {
+      "bar": 4,
+      "slot_1based": 9,
+      "stroke": "D",
+      "time_sec": 10.243902
+    },
+    {
+      "bar": 4,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 10.609756
+    },
+    {
+      "bar": 4,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 10.97561
+    },
+    {
+      "bar": 4,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 11.341463
+    },
+    {
+      "bar": 4,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 11.52439
+    },
+    {
+      "bar": 5,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 11.707317
+    },
+    {
+      "bar": 5,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 12.073171
+    },
+    {
+      "bar": 5,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 12.439024
+    },
+    {
+      "bar": 5,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 12.804878
+    },
+    {
+      "bar": 5,
+      "slot_1based": 9,
+      "stroke": "D",
+      "time_sec": 13.170732
+    },
+    {
+      "bar": 5,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 13.536585
+    },
+    {
+      "bar": 5,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 13.902439
+    },
+    {
+      "bar": 5,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 14.268293
+    },
+    {
+      "bar": 5,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 14.45122
+    },
+    {
+      "bar": 6,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 14.634146
+    },
+    {
+      "bar": 6,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 15.0
+    },
+    {
+      "bar": 6,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 15.365854
+    },
+    {
+      "bar": 6,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 15.731707
+    },
+    {
+      "bar": 6,
+      "slot_1based": 9,
+      "stroke": "D",
+      "time_sec": 16.097561
+    },
+    {
+      "bar": 6,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 16.463415
+    },
+    {
+      "bar": 6,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 16.829268
+    },
+    {
+      "bar": 6,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 17.195122
+    },
+    {
+      "bar": 6,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 17.378049
+    }
+  ]
+}

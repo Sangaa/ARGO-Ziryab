@@ -1,0 +1,32 @@
+{
+  "bpm": 96,
+  "dum_source": "Darbuka_68_76_SP.wav",
+  "tak_sources": [
+    "tak_02_03.flac",
+    "tak_02_07.flac"
+  ],
+  "patterns": [
+    {
+      "rhythm": "MAQSUM",
+      "start": 0.4,
+      "end": 15.4,
+      "pattern": "D T - T D - T -"
+    },
+    {
+      "rhythm": "BALADI",
+      "start": 16.65,
+      "end": 31.65,
+      "pattern": "D D - T D - T -"
+    },
+    {
+      "rhythm": "SAIDI",
+      "start": 32.9,
+      "end": 47.9,
+      "pattern": "D T - D D - T -"
+    }
+  ],
+  "kah": 0,
+  "ghosts": 0,
+  "rolls": 0,
+  "humanization_ms": 0
+}

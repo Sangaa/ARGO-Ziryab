@@ -1,0 +1,13 @@
+{
+  "same_score": true,
+  "melody_source": "REAPER/SINE natural instruments: Strand Nylon, Lucent Flute, Helix Strings, Ratio Piano, Crux JBass",
+  "tabla_source": "B real-sample tabla stem",
+  "target_tabla_energy_share": 0.374,
+  "actual_component_energy_share_tabla": 0.374,
+  "tabla_scale_before_master": 0.1052590666970989,
+  "master_peak_normalize_gain_db": 8.54748446856416,
+  "final_peak_dbfs": -1.0000000000000007,
+  "final_rms_dbfs": -22.151673568554074,
+  "output": "%ZIRYAB_SAMPLES%\\HASHTAKA_ABC_LAB\\HASHTAKA-D_REAL_BAND-SAME_SCORE-v3.wav",
+  "note": "No melody-note changes. No correction of the known duplicate-hit score defect."
+}

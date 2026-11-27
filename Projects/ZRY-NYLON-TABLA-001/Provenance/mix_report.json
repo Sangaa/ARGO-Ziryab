@@ -1,0 +1,29 @@
+{
+  "guitar": {
+    "active_in_db": -20.687904627384928,
+    "target_active_db": -18.5,
+    "gain_db": 2.187904627384928
+  },
+  "tabla": {
+    "active_in_db": -20.105415214572634,
+    "target_active_db": -19.0,
+    "gain_db": 1.105415214572638
+  },
+  "bass": {
+    "active_in_db": -34.83198634468043,
+    "target_active_db": -23.5,
+    "gain_db": 11.33198634468043
+  },
+  "master": {
+    "gain_db": -3.9033133737580346,
+    "peak_dbfs": -1.1999999999999993,
+    "rms_dbfs": -21.261705748417157,
+    "duration_sec": 44.0,
+    "instruments": [
+      "Strand Nylon Guitar",
+      "Real-sample Tabla",
+      "Crux JBass"
+    ],
+    "output": "%ZIRYAB_SAMPLES%\\ZIRYAB-NYLON-TABLA-001.wav"
+  }
+}

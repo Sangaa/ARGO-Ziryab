@@ -1,0 +1,2 @@
+fx=VST3i: SINE Player (Orchestral Tools)
+preset=

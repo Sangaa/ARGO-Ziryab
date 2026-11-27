@@ -1,0 +1,4 @@
+Strand_Steel=OK notes=21
+Strand_Nylon=OK notes=21
+Clutch=MISSING
+Crucible=MISSING

@@ -1,0 +1,248 @@
+{
+  "lesson": "MALFOUF CONTROLLED VARIATION 001",
+  "bpm": 92.0,
+  "meter": "2/4",
+  "base": "D - - T | - - T -",
+  "variation": "D - t T | - k T -",
+  "fill": "D - t T | k t T M",
+  "plan": [
+    "BASE",
+    "BASE",
+    "VAR",
+    "VAR",
+    "BASE",
+    "FILL",
+    "BASE",
+    "BASE"
+  ],
+  "humanization": "OFF",
+  "microtiming": "NONE",
+  "goal": "add life and one short fill while proving a clean return to Malfouf skeleton",
+  "rule": "fill must resolve into next-bar D; no identity drift",
+  "events": [
+    {
+      "bar": 1,
+      "pattern": "BASE",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 0.0
+    },
+    {
+      "bar": 1,
+      "pattern": "BASE",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 0.48913
+    },
+    {
+      "bar": 1,
+      "pattern": "BASE",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 0.978261
+    },
+    {
+      "bar": 2,
+      "pattern": "BASE",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 1.304348
+    },
+    {
+      "bar": 2,
+      "pattern": "BASE",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 1.793478
+    },
+    {
+      "bar": 2,
+      "pattern": "BASE",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 2.282609
+    },
+    {
+      "bar": 3,
+      "pattern": "VAR",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 2.608696
+    },
+    {
+      "bar": 3,
+      "pattern": "VAR",
+      "slot_1based": 3,
+      "stroke": "t",
+      "time_sec": 2.934783
+    },
+    {
+      "bar": 3,
+      "pattern": "VAR",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 3.097826
+    },
+    {
+      "bar": 3,
+      "pattern": "VAR",
+      "slot_1based": 6,
+      "stroke": "k",
+      "time_sec": 3.423913
+    },
+    {
+      "bar": 3,
+      "pattern": "VAR",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 3.586957
+    },
+    {
+      "bar": 4,
+      "pattern": "VAR",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 3.913043
+    },
+    {
+      "bar": 4,
+      "pattern": "VAR",
+      "slot_1based": 3,
+      "stroke": "t",
+      "time_sec": 4.23913
+    },
+    {
+      "bar": 4,
+      "pattern": "VAR",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 4.402174
+    },
+    {
+      "bar": 4,
+      "pattern": "VAR",
+      "slot_1based": 6,
+      "stroke": "k",
+      "time_sec": 4.728261
+    },
+    {
+      "bar": 4,
+      "pattern": "VAR",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 4.891304
+    },
+    {
+      "bar": 5,
+      "pattern": "BASE",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 5.217391
+    },
+    {
+      "bar": 5,
+      "pattern": "BASE",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 5.706522
+    },
+    {
+      "bar": 5,
+      "pattern": "BASE",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 6.195652
+    },
+    {
+      "bar": 6,
+      "pattern": "FILL",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 6.521739
+    },
+    {
+      "bar": 6,
+      "pattern": "FILL",
+      "slot_1based": 3,
+      "stroke": "t",
+      "time_sec": 6.847826
+    },
+    {
+      "bar": 6,
+      "pattern": "FILL",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 7.01087
+    },
+    {
+      "bar": 6,
+      "pattern": "FILL",
+      "slot_1based": 5,
+      "stroke": "k",
+      "time_sec": 7.173913
+    },
+    {
+      "bar": 6,
+      "pattern": "FILL",
+      "slot_1based": 6,
+      "stroke": "t",
+      "time_sec": 7.336957
+    },
+    {
+      "bar": 6,
+      "pattern": "FILL",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 7.5
+    },
+    {
+      "bar": 6,
+      "pattern": "FILL",
+      "slot_1based": 8,
+      "stroke": "M",
+      "time_sec": 7.663043
+    },
+    {
+      "bar": 7,
+      "pattern": "BASE",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 7.826087
+    },
+    {
+      "bar": 7,
+      "pattern": "BASE",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 8.315217
+    },
+    {
+      "bar": 7,
+      "pattern": "BASE",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 8.804348
+    },
+    {
+      "bar": 8,
+      "pattern": "BASE",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 9.130435
+    },
+    {
+      "bar": 8,
+      "pattern": "BASE",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 9.619565
+    },
+    {
+      "bar": 8,
+      "pattern": "BASE",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 10.108696
+    }
+  ]
+}

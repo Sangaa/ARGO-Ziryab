@@ -1,0 +1,1 @@
+First flute phrase (QN 25,26,27, pitches 74,75,74) repeated exactly at QN 111.5,112.5,113.5 to answer its earlier call. Replaces v2 transformed callback; v2 ending notes retained. All first-breath 001 and 002 files untouched.

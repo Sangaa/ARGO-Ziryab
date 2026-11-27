@@ -1,0 +1,12 @@
+0 Strand_Nylon items=1 mute=0 solo=0 vol=0.360000 pan=-0.260 mainsend=1
+  item0 type=MIDI file=nil notes=217 pos=0.000 len=89.000 mute=0
+1 Lucent_Flute items=1 mute=0 solo=0 vol=0.619200 pan=0.220 mainsend=1
+  item0 type=MIDI file=nil notes=38 pos=0.000 len=89.000 mute=0
+2 Helix_Strings items=1 mute=0 solo=0 vol=0.532800 pan=0.340 mainsend=1
+  item0 type=MIDI file=nil notes=90 pos=0.000 len=89.000 mute=0
+3 Ratio_Piano items=1 mute=0 solo=0 vol=0.360000 pan=-0.380 mainsend=1
+  item0 type=MIDI file=nil notes=5 pos=0.000 len=89.000 mute=0
+4 Crux_JBass items=1 mute=0 solo=0 vol=0.619200 pan=0.000 mainsend=1
+  item0 type=MIDI file=nil notes=75 pos=0.000 len=89.000 mute=0
+5 Tabla_Real_B items=1 mute=0 solo=0 vol=0.340000 pan=0.000 mainsend=1
+  item0 type=WAVE file=nil notes=0 pos=0.000 len=89.000 mute=0

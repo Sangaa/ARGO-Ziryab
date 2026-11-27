@@ -1,0 +1,16 @@
+BEFORE_SORT_COUNT=6
+BEFORE_SORT_NOTE_1 ok=true pitch=76 start=0 end=240
+BEFORE_SORT_NOTE_2 ok=true pitch=75 start=240 end=480
+BEFORE_SORT_NOTE_3 ok=true pitch=76 start=480 end=720
+BEFORE_SORT_NOTE_4 ok=true pitch=75 start=720 end=960
+BEFORE_SORT_NOTE_5 ok=true pitch=76 start=960 end=1200
+BEFORE_SORT_NOTE_6 ok=true pitch=71 start=1200 end=0
+BEFORE_SORT_RAW_BYTES=144
+AFTER_SORT_COUNT=6
+AFTER_SORT_NOTE_1 ok=true pitch=76 start=0 end=240
+AFTER_SORT_NOTE_2 ok=true pitch=75 start=240 end=480
+AFTER_SORT_NOTE_3 ok=true pitch=76 start=480 end=720
+AFTER_SORT_NOTE_4 ok=true pitch=75 start=720 end=960
+AFTER_SORT_NOTE_5 ok=true pitch=76 start=960 end=1200
+AFTER_SORT_NOTE_6 ok=true pitch=71 start=1200 end=1440
+AFTER_SORT_RAW_BYTES=156

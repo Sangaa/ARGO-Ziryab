@@ -1,0 +1,158 @@
+{
+  "lesson": "TABLA FOUNDATION / MALFOUF 002 — TEMPO TRANSFER",
+  "bpm": 92.0,
+  "meter": "2/4",
+  "grid": "1/16",
+  "bars": 8,
+  "pattern": "D - - T | - - T -",
+  "variation": "OFF",
+  "humanization": "OFF",
+  "microtiming": "NONE",
+  "goal": "preserve Malfouf identity at a slightly more festive tempo",
+  "events": [
+    {
+      "bar": 1,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 0.0
+    },
+    {
+      "bar": 1,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 0.48913
+    },
+    {
+      "bar": 1,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 0.978261
+    },
+    {
+      "bar": 2,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 1.304348
+    },
+    {
+      "bar": 2,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 1.793478
+    },
+    {
+      "bar": 2,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 2.282609
+    },
+    {
+      "bar": 3,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 2.608696
+    },
+    {
+      "bar": 3,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 3.097826
+    },
+    {
+      "bar": 3,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 3.586957
+    },
+    {
+      "bar": 4,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 3.913043
+    },
+    {
+      "bar": 4,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 4.402174
+    },
+    {
+      "bar": 4,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 4.891304
+    },
+    {
+      "bar": 5,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 5.217391
+    },
+    {
+      "bar": 5,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 5.706522
+    },
+    {
+      "bar": 5,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 6.195652
+    },
+    {
+      "bar": 6,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 6.521739
+    },
+    {
+      "bar": 6,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 7.01087
+    },
+    {
+      "bar": 6,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 7.5
+    },
+    {
+      "bar": 7,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 7.826087
+    },
+    {
+      "bar": 7,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 8.315217
+    },
+    {
+      "bar": 7,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 8.804348
+    },
+    {
+      "bar": 8,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 9.130435
+    },
+    {
+      "bar": 8,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 9.619565
+    },
+    {
+      "bar": 8,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 10.108696
+    }
+  ]
+}

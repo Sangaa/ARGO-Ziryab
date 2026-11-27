@@ -1,0 +1,4 @@
+PROJECT=ZRY-I2-FUR-ELISE-001-TAKE08-ISOLATED-PITCHES-EXTENDED.rpp
+TRACK=Strand_Nylon MUTE=0.0
+FX_COUNT=1 INSTRUMENT_FX_INDEX=0
+FX_0 ok=true name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false guid={EA926235-9543-4CC5-99A7-884700ED1503} io_ok=3 input_pins=0 output_pins=32

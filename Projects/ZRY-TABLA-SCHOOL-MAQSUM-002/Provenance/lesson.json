@@ -1,0 +1,568 @@
+{
+  "lesson": "TABLA FOUNDATION / MAQSUM 002 — TEMPO TRANSFER",
+  "bpm": 100.0,
+  "meter": "4/4",
+  "grid": "1/16",
+  "bars": 8,
+  "duration_sec": 19.85,
+  "base_pattern": "D - T - | K - D - | - - T - | K - T K",
+  "variation_pattern": "D t T - | K - D k | t - T - | K t T K",
+  "plan": [
+    "BASE",
+    "BASE",
+    "BASE",
+    "VAR",
+    "VAR",
+    "BASE",
+    "VAR",
+    "BASE"
+  ],
+  "microtiming": "NONE; grid-exact foundation pass",
+  "humanization": "OFF",
+  "articulation_boundary": "K = real Ka-category sample; NOT asserted KAH_LEFT",
+  "samples": {
+    "D": "%ZIRYAB_SAMPLES%\\New folder\\Darbuka_68_76_SP.wav",
+    "T": [
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\tak_02_03.flac",
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\tak_02_07.flac"
+    ],
+    "K": "%ZIRYAB_SAMPLES%\\New folder\\413798__pjcohen__doumbek_ka2.wav"
+  },
+  "event_count": 76,
+  "events": [
+    {
+      "bar": 1,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 0.0,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 0.3,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 0.6,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 0.9,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 1.5,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 1.8,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 2.1,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 2.25,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 2.4,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 2.7,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 3.0,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 3.3,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 3.9,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 4.2,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 4.5,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 4.65,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 4.8,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 5.1,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 5.4,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 5.7,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 6.3,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 6.6,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 6.9,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 7.05,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 7.2,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 2,
+      "stroke": "t",
+      "time_sec": 7.35,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 7.5,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 7.8,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 8.1,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 8,
+      "stroke": "k",
+      "time_sec": 8.25,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 9,
+      "stroke": "t",
+      "time_sec": 8.4,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 8.7,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 9.0,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 14,
+      "stroke": "t",
+      "time_sec": 9.15,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 9.3,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 9.45,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 9.6,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 2,
+      "stroke": "t",
+      "time_sec": 9.75,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 9.9,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 10.2,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 10.5,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 8,
+      "stroke": "k",
+      "time_sec": 10.65,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 9,
+      "stroke": "t",
+      "time_sec": 10.8,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 11.1,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 11.4,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 14,
+      "stroke": "t",
+      "time_sec": 11.55,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 11.7,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 11.85,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 12.0,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 12.3,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 12.6,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 12.9,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 13.5,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 13.8,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 14.1,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 14.25,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 14.4,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 2,
+      "stroke": "t",
+      "time_sec": 14.55,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 14.7,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 15.0,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 15.3,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 8,
+      "stroke": "k",
+      "time_sec": 15.45,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 9,
+      "stroke": "t",
+      "time_sec": 15.6,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 15.9,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 16.2,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 14,
+      "stroke": "t",
+      "time_sec": 16.35,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 16.5,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 16.65,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 16.8,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 3,
+      "stroke": "T",
+      "time_sec": 17.1,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 17.4,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 17.7,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 18.3,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 18.6,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 18.9,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 19.05,
+      "pattern": "BASE"
+    }
+  ],
+  "goal": "hold Maqsum identity through a small supporting-stroke variation, then return cleanly to base",
+  "pass_question": "Does the VAR remain recognizably Maqsum without weakening pulse or anchor identity?"
+}

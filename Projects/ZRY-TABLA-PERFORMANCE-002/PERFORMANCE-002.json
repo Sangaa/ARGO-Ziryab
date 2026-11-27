@@ -1,0 +1,75 @@
+{
+  "bpm": 96,
+  "rhythm": "Maqsum",
+  "architecture": "A x2 -> B x2 -> 2-bar break -> return x2 -> A x2",
+  "break_duration_bars": 2,
+  "humanization_ms": 0,
+  "rolls": 0,
+  "timeline": [
+    {
+      "part": "A1",
+      "start": 0.5,
+      "end": 3.0,
+      "pattern": "D - T - - - T - D - T - - - T -"
+    },
+    {
+      "part": "A2",
+      "start": 3.0,
+      "end": 5.5,
+      "pattern": "D - T - - - T - D - T - - - T -"
+    },
+    {
+      "part": "B1",
+      "start": 5.5,
+      "end": 8.0,
+      "pattern": "D - T K - - T - D - T - K - T -"
+    },
+    {
+      "part": "B2",
+      "start": 8.0,
+      "end": 10.5,
+      "pattern": "D - T K - - T - D - T - K - T -"
+    },
+    {
+      "part": "BREAK_1",
+      "start": 10.5,
+      "end": 13.0,
+      "pattern": "D - - - M - T - D - - K - - T -"
+    },
+    {
+      "part": "BREAK_2",
+      "start": 13.0,
+      "end": 15.5,
+      "pattern": "D - T - K - M - D - T K S - T -"
+    },
+    {
+      "part": "RETURN_1",
+      "start": 15.5,
+      "end": 18.0,
+      "pattern": "D - T - - - T - D - T - - - - -"
+    },
+    {
+      "part": "RETURN_2",
+      "start": 18.0,
+      "end": 20.5,
+      "pattern": "D - T - - - T - D - T - - - T -"
+    },
+    {
+      "part": "A_FINAL",
+      "start": 20.5,
+      "end": 23.0,
+      "pattern": "D - T - - - T - D - T - - - T -"
+    },
+    {
+      "part": "A_FINAL_REPEAT",
+      "start": 23.0,
+      "end": 25.5,
+      "pattern": "D - T - - - T - D - T - - - T -"
+    }
+  ],
+  "claims": [
+    "KA stays KA",
+    "MUTE stays MUTE",
+    "SLAP stays SLAP"
+  ]
+}

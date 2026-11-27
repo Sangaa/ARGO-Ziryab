@@ -1,0 +1,158 @@
+{
+  "bpm": 98,
+  "structure": "base 2 bars -> move1 2 -> move2 2 -> turnaround 1 -> base return 1",
+  "articulations": {
+    "D": "Darbuka_68_76_SP.wav (DUM-like resonant candidate)",
+    "T": [
+      "tak_02_03.flac",
+      "tak_02_07.flac"
+    ],
+    "K": "413798__pjcohen__doumbek_ka2.wav (verified KA category; hand not assumed)",
+    "M": "413782__pjcohen__doumbek_mute2.wav (verified MUTE category)",
+    "S": "413781__pjcohen__doumbek_slap1.wav (verified SLAP category)"
+  },
+  "claims": [
+    "KA is not relabeled KAH_LEFT",
+    "MUTE is not relabeled DUM_CLOSED",
+    "SLAP is not relabeled SAK"
+  ],
+  "humanization_ms": 0,
+  "rolls": 0,
+  "timeline": [
+    {
+      "rhythm": "MAQSUM",
+      "part": "BASE",
+      "start": 0.5,
+      "end": 5.398,
+      "bars": 2,
+      "pattern": "D - T - - - T - D - T - - - T -"
+    },
+    {
+      "rhythm": "MAQSUM",
+      "part": "MOVE1",
+      "start": 5.398,
+      "end": 10.296,
+      "bars": 2,
+      "pattern": "D - T K - - T - D - T - K - T -"
+    },
+    {
+      "rhythm": "MAQSUM",
+      "part": "MOVE2",
+      "start": 10.296,
+      "end": 15.194,
+      "bars": 2,
+      "pattern": "D - T - M - T - D - T K - - T -"
+    },
+    {
+      "rhythm": "MAQSUM",
+      "part": "TURN",
+      "start": 15.194,
+      "end": 17.643,
+      "bars": 1,
+      "pattern": "D - T K T - M - D - T - S K T -"
+    },
+    {
+      "rhythm": "MAQSUM",
+      "part": "BASE_RETURN",
+      "start": 17.643,
+      "end": 20.092,
+      "bars": 1,
+      "pattern": "D - T - - - T - D - T - - - T -"
+    },
+    {
+      "rhythm": "MAQSUM",
+      "section_start": 0.5,
+      "section_end": 20.092
+    },
+    {
+      "rhythm": "BALADI",
+      "part": "BASE",
+      "start": 21.01,
+      "end": 25.908,
+      "bars": 2,
+      "pattern": "D - D - - - T - D - T - - - T -"
+    },
+    {
+      "rhythm": "BALADI",
+      "part": "MOVE1",
+      "start": 25.908,
+      "end": 30.806,
+      "bars": 2,
+      "pattern": "D D - - M - T - D - T - K - T -"
+    },
+    {
+      "rhythm": "BALADI",
+      "part": "MOVE2",
+      "start": 30.806,
+      "end": 35.704,
+      "bars": 2,
+      "pattern": "D D - T - M T - D - T K - - T -"
+    },
+    {
+      "rhythm": "BALADI",
+      "part": "TURN",
+      "start": 35.704,
+      "end": 38.153,
+      "bars": 1,
+      "pattern": "D D M - T K - - D - T - S K T -"
+    },
+    {
+      "rhythm": "BALADI",
+      "part": "BASE_RETURN",
+      "start": 38.153,
+      "end": 40.602,
+      "bars": 1,
+      "pattern": "D - D - - - T - D - T - - - T -"
+    },
+    {
+      "rhythm": "BALADI",
+      "section_start": 21.01,
+      "section_end": 40.602
+    },
+    {
+      "rhythm": "SAIDI",
+      "part": "BASE",
+      "start": 41.52,
+      "end": 46.418,
+      "bars": 2,
+      "pattern": "D - T - - - D - D - T - - - T -"
+    },
+    {
+      "rhythm": "SAIDI",
+      "part": "MOVE1",
+      "start": 46.418,
+      "end": 51.316,
+      "bars": 2,
+      "pattern": "D - T - K - D - D - T - K - T -"
+    },
+    {
+      "rhythm": "SAIDI",
+      "part": "MOVE2",
+      "start": 51.316,
+      "end": 56.214,
+      "bars": 2,
+      "pattern": "D - T K - - D - D M T - K - T -"
+    },
+    {
+      "rhythm": "SAIDI",
+      "part": "TURN",
+      "start": 56.214,
+      "end": 58.663,
+      "bars": 1,
+      "pattern": "D - T K T - D - D M T - S K T -"
+    },
+    {
+      "rhythm": "SAIDI",
+      "part": "BASE_RETURN",
+      "start": 58.663,
+      "end": 61.112,
+      "bars": 1,
+      "pattern": "D - T - - - D - D - T - - - T -"
+    },
+    {
+      "rhythm": "SAIDI",
+      "section_start": 41.52,
+      "section_end": 61.112
+    }
+  ]
+}

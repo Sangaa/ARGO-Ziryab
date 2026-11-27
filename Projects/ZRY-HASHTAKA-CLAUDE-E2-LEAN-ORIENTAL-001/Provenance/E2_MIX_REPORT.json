@@ -1,0 +1,44 @@
+{
+  "tabla": {
+    "source": "%ZIRYAB_STUDIO%\\Projects\\ZRY-HASHTAKA-CLAUDE-LAB-001\\Renders\\HASHTAKA-B_REAL_SAMPLES-TABLA-STEM.wav",
+    "active_rms_in_db": -13.227804405290469,
+    "target_active_db": -17.5,
+    "gain_db": -4.272195594709531
+  },
+  "oud": {
+    "source": "%ZIRYAB_STUDIO%\\Projects\\ZRY-HASHTAKA-CLAUDE-E2-LEAN-ORIENTAL-001\\Renders\\E2-OUD-FULL.wav",
+    "active_rms_in_db": -33.41301103093339,
+    "target_active_db": -20.5,
+    "gain_db": 12.913011030933392
+  },
+  "accordion": {
+    "source": "%ZIRYAB_STUDIO%\\Projects\\ZRY-HASHTAKA-CLAUDE-E2-LEAN-ORIENTAL-001\\Renders\\E2-ACCORDION-FULL.wav",
+    "active_rms_in_db": -18.69201117214239,
+    "target_active_db": -24.0,
+    "gain_db": -5.307988827857609
+  },
+  "bass": {
+    "source": "%ZIRYAB_STUDIO%\\Projects\\ZRY-HASHTAKA-CLAUDE-E2-LEAN-ORIENTAL-001\\Renders\\E2-BASS-FULL.wav",
+    "active_rms_in_db": -35.67433176233696,
+    "target_active_db": -22.0,
+    "gain_db": 13.674331762336958
+  },
+  "master": {
+    "gain_db": -2.3717410496494002,
+    "peak_dbfs": -1.1999999999999993,
+    "rms_dbfs": -20.085547306438237,
+    "instruments": [
+      "Tabla B",
+      "Turkish Oud",
+      "Hohner Accordion",
+      "Crux JBass"
+    ],
+    "muted": [
+      "Flute",
+      "Violin/Strings",
+      "Piano"
+    ],
+    "score_boundary": "No melody pitch/onset changes on oud or bass. Accordion uses original Helix_Strings harmony with original onset/pitch/duration. Known tabla duplicate-hit defect remains preserved.",
+    "output": "%ZIRYAB_SAMPLES%\\HASHTAKA_ABC_LAB\\HASHTAKA-E2-LEAN-ORIENTAL_OUD-ACC-TABLA-BASS-v1.wav"
+  }
+}

@@ -1,0 +1,8 @@
+PROJECT=ZRY-I2-FUR-ELISE-001.rpp
+NOTE_COUNT=6
+NOTE_1 ok=true pitch=76 start=0 end=240 vel=48
+NOTE_2 ok=true pitch=75 start=240 end=480 vel=48
+NOTE_3 ok=true pitch=76 start=480 end=720 vel=48
+NOTE_4 ok=true pitch=75 start=720 end=960 vel=48
+NOTE_5 ok=true pitch=76 start=960 end=1200 vel=48
+NOTE_6 ok=true pitch=71 start=1200 end=0 vel=48

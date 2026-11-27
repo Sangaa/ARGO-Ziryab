@@ -1,0 +1,7 @@
+backup=ZRY-FIRST-BREATH-001.pre-splice-20261010-131802.rpp
+item_length=66.0
+Strand_Nylon   <- ZRY-LOCAL-SINE-ENSEMBLE-001/Strand_Nylon: instrument='Nylon String Guitar' selected_art='Single notes longs' active=['Single notes longs'] keyrange=40-86
+Lucent_Flute   <- ZRY-LOCAL-SINE-ENSEMBLE-001/Lucent_Flute: instrument='Lucent - Free flute by Claire Wickes' selected_art='Sustains' active=['Sustains'] keyrange=60-96
+Helix_Strings  <- ZRY-LOCAL-SINE-ENSEMBLE-001/Helix_Strings: instrument='Whole String Ensemble' selected_art='Sustains' active=['Sustains'] keyrange=24-99
+Ratio_Piano    <- ZRY-LOCAL-SINE-RATIO-001/SINE_RATIO_PIANO: instrument='Piano' selected_art='Sustains' active=['Sustains'] keyrange=21-108
+Crux_JBass     <- ZRY-LOCAL-SINE-ENSEMBLE-001/Crux_JBass: instrument='J-bass' selected_art='Fingered' active=['Fingered'] keyrange=28-62

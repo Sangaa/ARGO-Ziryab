@@ -1,0 +1,51 @@
+{
+  "bpm": 102,
+  "duration_sec": 27.73,
+  "structure": [
+    {
+      "part": "BASIC",
+      "bars": 2,
+      "start": 0.35,
+      "end": 5.056
+    },
+    {
+      "part": "LIGHT",
+      "bars": 2,
+      "start": 5.056,
+      "end": 9.762
+    },
+    {
+      "part": "BASIC_RETURN",
+      "bars": 1,
+      "start": 9.762,
+      "end": 12.115
+    },
+    {
+      "part": "BREAK",
+      "bars": 1,
+      "start": 12.115,
+      "end": 14.468
+    },
+    {
+      "part": "ANSWER",
+      "bars": 2,
+      "start": 14.468,
+      "end": 19.174
+    },
+    {
+      "part": "LIGHT_RETURN",
+      "bars": 2,
+      "start": 19.174,
+      "end": 23.879
+    },
+    {
+      "part": "FINAL",
+      "bars": 1,
+      "start": 23.879,
+      "end": 26.232
+    }
+  ],
+  "source_basis": "Maqsum basic/light vocabulary learned from Khafif; break/answer are restrained Ziryab practice composition",
+  "timing_jitter_ms": "DUM ±3; rim strokes ±6",
+  "rolls": 0
+}

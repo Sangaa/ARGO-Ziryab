@@ -1,0 +1,191 @@
+{
+  "lesson": "BALADI IDENTITY / TEMPO TRANSFER 002",
+  "bpm": 100.0,
+  "pattern": "D D - T | D - T -",
+  "bars": 6,
+  "variation": "OFF",
+  "humanization": "OFF",
+  "goal": "preserve the simplified Baladi identity at higher tempo before reintroducing detail",
+  "events": [
+    {
+      "bar": 1,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 0.0
+    },
+    {
+      "bar": 1,
+      "slot_1based": 2,
+      "stroke": "D",
+      "time_sec": 0.3
+    },
+    {
+      "bar": 1,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 0.9
+    },
+    {
+      "bar": 1,
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 1.2
+    },
+    {
+      "bar": 1,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 1.8
+    },
+    {
+      "bar": 2,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 2.4
+    },
+    {
+      "bar": 2,
+      "slot_1based": 2,
+      "stroke": "D",
+      "time_sec": 2.7
+    },
+    {
+      "bar": 2,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 3.3
+    },
+    {
+      "bar": 2,
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 3.6
+    },
+    {
+      "bar": 2,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 4.2
+    },
+    {
+      "bar": 3,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 4.8
+    },
+    {
+      "bar": 3,
+      "slot_1based": 2,
+      "stroke": "D",
+      "time_sec": 5.1
+    },
+    {
+      "bar": 3,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 5.7
+    },
+    {
+      "bar": 3,
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 6.0
+    },
+    {
+      "bar": 3,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 6.6
+    },
+    {
+      "bar": 4,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 7.2
+    },
+    {
+      "bar": 4,
+      "slot_1based": 2,
+      "stroke": "D",
+      "time_sec": 7.5
+    },
+    {
+      "bar": 4,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 8.1
+    },
+    {
+      "bar": 4,
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 8.4
+    },
+    {
+      "bar": 4,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 9.0
+    },
+    {
+      "bar": 5,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 9.6
+    },
+    {
+      "bar": 5,
+      "slot_1based": 2,
+      "stroke": "D",
+      "time_sec": 9.9
+    },
+    {
+      "bar": 5,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 10.5
+    },
+    {
+      "bar": 5,
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 10.8
+    },
+    {
+      "bar": 5,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 11.4
+    },
+    {
+      "bar": 6,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 12.0
+    },
+    {
+      "bar": 6,
+      "slot_1based": 2,
+      "stroke": "D",
+      "time_sec": 12.3
+    },
+    {
+      "bar": 6,
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 12.9
+    },
+    {
+      "bar": 6,
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 13.2
+    },
+    {
+      "bar": 6,
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 13.8
+    }
+  ]
+}

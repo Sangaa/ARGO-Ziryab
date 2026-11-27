@@ -1,0 +1,87 @@
+{
+  "purpose": "Check whether rhythm identity survives two conservative plain variations",
+  "bpm": 94,
+  "grid": "8 eighth-note slots per 4/4 bar",
+  "repetitions_per_pattern": 2,
+  "kah": 0,
+  "ghosts": 0,
+  "rolls": 0,
+  "humanization_ms": 0,
+  "timeline": [
+    {
+      "rhythm": "MAQSUM",
+      "variation": "BASE",
+      "start": 0.4,
+      "end": 5.506,
+      "pattern": "D T - T D - T -"
+    },
+    {
+      "rhythm": "MAQSUM",
+      "variation": "VAR_A",
+      "start": 6.464,
+      "end": 11.57,
+      "pattern": "D T T - D - T -"
+    },
+    {
+      "rhythm": "MAQSUM",
+      "variation": "VAR_B",
+      "start": 12.528,
+      "end": 17.634,
+      "pattern": "D - T T D - T -"
+    },
+    {
+      "rhythm": "MAQSUM",
+      "section_end": 18.591
+    },
+    {
+      "rhythm": "BALADI",
+      "variation": "BASE",
+      "start": 19.868,
+      "end": 24.974,
+      "pattern": "D D - T D - T -"
+    },
+    {
+      "rhythm": "BALADI",
+      "variation": "VAR_A",
+      "start": 25.932,
+      "end": 31.038,
+      "pattern": "D D T - D - T -"
+    },
+    {
+      "rhythm": "BALADI",
+      "variation": "VAR_B",
+      "start": 31.996,
+      "end": 37.102,
+      "pattern": "D D - T D T - -"
+    },
+    {
+      "rhythm": "BALADI",
+      "section_end": 38.06
+    },
+    {
+      "rhythm": "SAIDI",
+      "variation": "BASE",
+      "start": 39.336,
+      "end": 44.443,
+      "pattern": "D T - D D - T -"
+    },
+    {
+      "rhythm": "SAIDI",
+      "variation": "VAR_A",
+      "start": 45.4,
+      "end": 50.506,
+      "pattern": "D T T D D - T -"
+    },
+    {
+      "rhythm": "SAIDI",
+      "variation": "VAR_B",
+      "start": 51.464,
+      "end": 56.57,
+      "pattern": "D - T D D T - -"
+    },
+    {
+      "rhythm": "SAIDI",
+      "section_end": 57.528
+    }
+  ]
+}

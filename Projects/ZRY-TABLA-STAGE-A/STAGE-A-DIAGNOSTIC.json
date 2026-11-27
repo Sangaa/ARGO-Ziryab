@@ -1,0 +1,22 @@
+{
+  "stage": "A - Rim Balance",
+  "bpm": 60,
+  "grid": "1/16",
+  "slot_ms": 250.0,
+  "duration_seconds": 300.0,
+  "strokes": 1200,
+  "pattern": "T K T K continuous",
+  "metronome": "quarter-note click on slots 1,5,9,13",
+  "input_gain_T": 0.46,
+  "input_gain_K": 0.46,
+  "T_source": "tak_02_03.flac",
+  "K_source": "tak_02_05.flac (KAH proxy only; authentic KAH sample not present)",
+  "T_sample_rms": 0.1637427407410124,
+  "K_sample_rms": 0.147502588326055,
+  "K_minus_T_raw_rms_db": -0.9072482827995705,
+  "timing_humanization_ms": 0,
+  "ornaments": 0,
+  "dum": 0,
+  "ghosts": 0,
+  "rolls": 0
+}

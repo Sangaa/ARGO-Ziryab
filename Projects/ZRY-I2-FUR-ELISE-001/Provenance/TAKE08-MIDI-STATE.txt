@@ -1,0 +1,22 @@
+ITEM_LENGTH=18.0
+NOTE_COUNT=6
+NOTE_1 ok=true pitch=76 start=0 end=240 vel=48
+NOTE_2 ok=true pitch=75 start=2880 end=3120 vel=48
+NOTE_3 ok=true pitch=76 start=5760 end=6000 vel=48
+NOTE_4 ok=true pitch=75 start=8640 end=8880 vel=48
+NOTE_5 ok=true pitch=76 start=11520 end=11760 vel=48
+NOTE_6 ok=true pitch=71 start=14400 end=14640 vel=48
+RAW_OK=true RAW_BYTES=156
+EVENT ppq=0 flags=0 len=3 bytes=90 4c 30 next=13
+EVENT ppq=240 flags=0 len=3 bytes=80 4c 00 next=25
+EVENT ppq=2880 flags=0 len=3 bytes=90 4b 30 next=37
+EVENT ppq=3120 flags=0 len=3 bytes=80 4b 00 next=49
+EVENT ppq=5760 flags=0 len=3 bytes=90 4c 30 next=61
+EVENT ppq=6000 flags=0 len=3 bytes=80 4c 00 next=73
+EVENT ppq=8640 flags=0 len=3 bytes=90 4b 30 next=85
+EVENT ppq=8880 flags=0 len=3 bytes=80 4b 00 next=97
+EVENT ppq=11520 flags=0 len=3 bytes=90 4c 30 next=109
+EVENT ppq=11760 flags=0 len=3 bytes=80 4c 00 next=121
+EVENT ppq=14400 flags=0 len=3 bytes=90 47 30 next=133
+EVENT ppq=14640 flags=0 len=3 bytes=80 47 00 next=145
+EVENT ppq=14640 flags=0 len=3 bytes=b0 7b 00 next=157

@@ -1,0 +1,341 @@
+{
+  "lesson": "THREE-WAY RHYTHM IDENTITY CONTRAST 001",
+  "bpm": 82.0,
+  "grid": "1/8 teaching skeleton",
+  "patterns": {
+    "maqsum": "D T - T | D - T -",
+    "baladi": "D D - T | D - T -",
+    "saidi": "D T - D | D - T -"
+  },
+  "sequence": [
+    "MAQSUM",
+    "MAQSUM",
+    "BALADI",
+    "BALADI",
+    "SAIDI",
+    "SAIDI",
+    "MAQSUM",
+    "BALADI",
+    "SAIDI"
+  ],
+  "variation": "OFF",
+  "humanization": "OFF",
+  "goal": "isolate defining DUM placement before reintroducing ornamentation",
+  "events": [
+    {
+      "bar": 1,
+      "rhythm": "MAQSUM",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 0.0
+    },
+    {
+      "bar": 1,
+      "rhythm": "MAQSUM",
+      "slot_1based": 2,
+      "stroke": "T",
+      "time_sec": 0.365854
+    },
+    {
+      "bar": 1,
+      "rhythm": "MAQSUM",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 1.097561
+    },
+    {
+      "bar": 1,
+      "rhythm": "MAQSUM",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 1.463415
+    },
+    {
+      "bar": 1,
+      "rhythm": "MAQSUM",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 2.195122
+    },
+    {
+      "bar": 2,
+      "rhythm": "MAQSUM",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 2.926829
+    },
+    {
+      "bar": 2,
+      "rhythm": "MAQSUM",
+      "slot_1based": 2,
+      "stroke": "T",
+      "time_sec": 3.292683
+    },
+    {
+      "bar": 2,
+      "rhythm": "MAQSUM",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 4.02439
+    },
+    {
+      "bar": 2,
+      "rhythm": "MAQSUM",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 4.390244
+    },
+    {
+      "bar": 2,
+      "rhythm": "MAQSUM",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 5.121951
+    },
+    {
+      "bar": 3,
+      "rhythm": "BALADI",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 5.853659
+    },
+    {
+      "bar": 3,
+      "rhythm": "BALADI",
+      "slot_1based": 2,
+      "stroke": "D",
+      "time_sec": 6.219512
+    },
+    {
+      "bar": 3,
+      "rhythm": "BALADI",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 6.95122
+    },
+    {
+      "bar": 3,
+      "rhythm": "BALADI",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 7.317073
+    },
+    {
+      "bar": 3,
+      "rhythm": "BALADI",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 8.04878
+    },
+    {
+      "bar": 4,
+      "rhythm": "BALADI",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 8.780488
+    },
+    {
+      "bar": 4,
+      "rhythm": "BALADI",
+      "slot_1based": 2,
+      "stroke": "D",
+      "time_sec": 9.146341
+    },
+    {
+      "bar": 4,
+      "rhythm": "BALADI",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 9.878049
+    },
+    {
+      "bar": 4,
+      "rhythm": "BALADI",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 10.243902
+    },
+    {
+      "bar": 4,
+      "rhythm": "BALADI",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 10.97561
+    },
+    {
+      "bar": 5,
+      "rhythm": "SAIDI",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 11.707317
+    },
+    {
+      "bar": 5,
+      "rhythm": "SAIDI",
+      "slot_1based": 2,
+      "stroke": "T",
+      "time_sec": 12.073171
+    },
+    {
+      "bar": 5,
+      "rhythm": "SAIDI",
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 12.804878
+    },
+    {
+      "bar": 5,
+      "rhythm": "SAIDI",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 13.170732
+    },
+    {
+      "bar": 5,
+      "rhythm": "SAIDI",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 13.902439
+    },
+    {
+      "bar": 6,
+      "rhythm": "SAIDI",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 14.634146
+    },
+    {
+      "bar": 6,
+      "rhythm": "SAIDI",
+      "slot_1based": 2,
+      "stroke": "T",
+      "time_sec": 15.0
+    },
+    {
+      "bar": 6,
+      "rhythm": "SAIDI",
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 15.731707
+    },
+    {
+      "bar": 6,
+      "rhythm": "SAIDI",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 16.097561
+    },
+    {
+      "bar": 6,
+      "rhythm": "SAIDI",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 16.829268
+    },
+    {
+      "bar": 7,
+      "rhythm": "MAQSUM",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 17.560976
+    },
+    {
+      "bar": 7,
+      "rhythm": "MAQSUM",
+      "slot_1based": 2,
+      "stroke": "T",
+      "time_sec": 17.926829
+    },
+    {
+      "bar": 7,
+      "rhythm": "MAQSUM",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 18.658537
+    },
+    {
+      "bar": 7,
+      "rhythm": "MAQSUM",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 19.02439
+    },
+    {
+      "bar": 7,
+      "rhythm": "MAQSUM",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 19.756098
+    },
+    {
+      "bar": 8,
+      "rhythm": "BALADI",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 20.487805
+    },
+    {
+      "bar": 8,
+      "rhythm": "BALADI",
+      "slot_1based": 2,
+      "stroke": "D",
+      "time_sec": 20.853659
+    },
+    {
+      "bar": 8,
+      "rhythm": "BALADI",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 21.585366
+    },
+    {
+      "bar": 8,
+      "rhythm": "BALADI",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 21.95122
+    },
+    {
+      "bar": 8,
+      "rhythm": "BALADI",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 22.682927
+    },
+    {
+      "bar": 9,
+      "rhythm": "SAIDI",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 23.414634
+    },
+    {
+      "bar": 9,
+      "rhythm": "SAIDI",
+      "slot_1based": 2,
+      "stroke": "T",
+      "time_sec": 23.780488
+    },
+    {
+      "bar": 9,
+      "rhythm": "SAIDI",
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 24.512195
+    },
+    {
+      "bar": 9,
+      "rhythm": "SAIDI",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 24.878049
+    },
+    {
+      "bar": 9,
+      "rhythm": "SAIDI",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 25.609756
+    }
+  ]
+}

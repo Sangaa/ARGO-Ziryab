@@ -1,0 +1,17 @@
+TRACK 0 Strand_Nylon items=1 fx=1 vol=0.360000 pan=-0.260
+  ITEM 0 type=MIDI midi_ok=0 notes=0 cc=0 syx=0 pos=0.000 len=89.000
+  FX 0 name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false preset_ok=true preset=
+TRACK 1 Lucent_Flute items=1 fx=1 vol=0.619200 pan=0.220
+  ITEM 0 type=MIDI midi_ok=0 notes=0 cc=0 syx=0 pos=0.000 len=89.000
+  FX 0 name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false preset_ok=true preset=
+TRACK 2 Helix_Strings items=1 fx=1 vol=0.532800 pan=0.340
+  ITEM 0 type=MIDI midi_ok=0 notes=0 cc=0 syx=0 pos=0.000 len=89.000
+  FX 0 name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false preset_ok=true preset=
+TRACK 3 Ratio_Piano items=1 fx=1 vol=0.360000 pan=-0.380
+  ITEM 0 type=MIDI midi_ok=0 notes=0 cc=0 syx=0 pos=0.000 len=89.000
+  FX 0 name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false preset_ok=true preset=
+TRACK 4 Crux_JBass items=1 fx=1 vol=0.619200 pan=0.000
+  ITEM 0 type=MIDI midi_ok=0 notes=0 cc=0 syx=0 pos=0.000 len=89.000
+  FX 0 name=VST3i: SINE Player (Orchestral Tools) enabled=true offline=false preset_ok=true preset=
+TRACK 5 Tabla_Real_B items=1 fx=0 vol=0.340000 pan=0.000
+  ITEM 0 type=WAVE midi_ok=0 notes=0 cc=0 syx=0 pos=0.000 len=89.000

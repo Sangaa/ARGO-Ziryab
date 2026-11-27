@@ -1,0 +1,3 @@
+same_score=true
+tabla=B_REAL_SAMPLES
+tempo=112

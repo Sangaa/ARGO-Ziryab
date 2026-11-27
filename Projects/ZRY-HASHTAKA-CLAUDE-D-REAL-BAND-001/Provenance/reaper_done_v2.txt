@@ -1,0 +1,5 @@
+Lucent_Flute=38
+Helix_Strings=90
+Ratio_Piano=5
+Strand_Nylon=217
+Crux_JBass=75

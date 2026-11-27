@@ -1,0 +1,47 @@
+{
+  "source_control_expected_sha256": "0b1ff4dc02338016b27831eff7d82850f691f24a2a5ab62c19d4a72fa070744e",
+  "score_strokes": 393,
+  "double_hits_preserved": true,
+  "mapping": {
+    "D": "Darbuka_68_76_SP.wav — DUM-like resonant candidate; user-auditioned as more natural",
+    "T": "FreePats tak_02_03.flac / tak_02_07.flac — real TAK category",
+    "K": "413798__pjcohen__doumbek_ka2.wav — real KA category; hand not claimed left",
+    "S": "413781__pjcohen__doumbek_slap1.wav — real SLAP category; not relabeled SAK"
+  },
+  "boundary": "B is REAL-SAMPLE CANDIDATE, not a final verified left-hand/closed/slap taxonomy. C changes DUM only and preserves original synthetic edge-family sound.",
+  "variants": {
+    "A_CONTROL": {
+      "pre_gain_db": 3.5,
+      "rms_dbfs": -16.425982771999198,
+      "gain_reduction_db": -3.030378077147593,
+      "sha256": "0b1ff4dc02338016b27831eff7d82850f691f24a2a5ab62c19d4a72fa070744e",
+      "phone_survival_db": -5.094595442728079,
+      "project_path": "%ZIRYAB_STUDIO%\\Projects\\ZRY-HASHTAKA-CLAUDE-LAB-001\\Renders\\HASHTAKA-A_CONTROL.wav",
+      "listen_path": "%ZIRYAB_SAMPLES%\\HASHTAKA_ABC_LAB\\HASHTAKA-A_CONTROL.wav",
+      "tabla_stem": "%ZIRYAB_STUDIO%\\Projects\\ZRY-HASHTAKA-CLAUDE-LAB-001\\Renders\\HASHTAKA-A_CONTROL-TABLA-STEM.wav"
+    },
+    "B_REAL_SAMPLES": {
+      "pre_gain_db": 4.0,
+      "rms_dbfs": -16.33991779776461,
+      "gain_reduction_db": -3.530378076057235,
+      "sha256": "a9dabcad609c34f238ba5762dd42ed7bd09db5efb51f84e3f5bab0893f1deac7",
+      "phone_survival_db": -4.85470015311679,
+      "project_path": "%ZIRYAB_STUDIO%\\Projects\\ZRY-HASHTAKA-CLAUDE-LAB-001\\Renders\\HASHTAKA-B_REAL_SAMPLES.wav",
+      "listen_path": "%ZIRYAB_SAMPLES%\\HASHTAKA_ABC_LAB\\HASHTAKA-B_REAL_SAMPLES.wav",
+      "tabla_stem": "%ZIRYAB_STUDIO%\\Projects\\ZRY-HASHTAKA-CLAUDE-LAB-001\\Renders\\HASHTAKA-B_REAL_SAMPLES-TABLA-STEM.wav"
+    },
+    "C_REAL_DUM_SYNTH_EDGES": {
+      "pre_gain_db": 4.0,
+      "rms_dbfs": -16.34862129725959,
+      "gain_reduction_db": -3.530378076057235,
+      "sha256": "e4922e7a1f740c2d346e336f58512a027441359a7cfc676c1c6a3ecdb4952764",
+      "phone_survival_db": -4.84932518364315,
+      "project_path": "%ZIRYAB_STUDIO%\\Projects\\ZRY-HASHTAKA-CLAUDE-LAB-001\\Renders\\HASHTAKA-C_REAL_DUM_SYNTH_EDGES.wav",
+      "listen_path": "%ZIRYAB_SAMPLES%\\HASHTAKA_ABC_LAB\\HASHTAKA-C_REAL_DUM_SYNTH_EDGES.wav",
+      "tabla_stem": "%ZIRYAB_STUDIO%\\Projects\\ZRY-HASHTAKA-CLAUDE-LAB-001\\Renders\\HASHTAKA-C_REAL_DUM_SYNTH_EDGES-TABLA-STEM.wav"
+    }
+  },
+  "source_control_actual_sha256": "0b1ff4dc02338016b27831eff7d82850f691f24a2a5ab62c19d4a72fa070744e",
+  "source_control_matches_documented": true,
+  "A_rebuild_matches_source_control": true
+}

@@ -1,0 +1,53 @@
+{
+  "purpose": "Plain rhythm skeleton listening check before ornaments",
+  "bpm": 90,
+  "grid": "1/16",
+  "bars_each": 3,
+  "gap_between_sections_sec": 1.3333333333333333,
+  "articulations": {
+    "D": "doom_01_04.flac",
+    "T": "tak_02_03.flac",
+    "K": "tak_02_05.flac (KAH proxy only; no authentic KAH sample in current library)"
+  },
+  "ornaments": 0,
+  "rolls": 0,
+  "ghosts": 0,
+  "humanization_ms": 0,
+  "timeline": [
+    {
+      "name": "MALFUF_2_4",
+      "start_sec": 0.5,
+      "end_sec": 4.5,
+      "bars": 3,
+      "pattern": "D - - T - - T -"
+    },
+    {
+      "name": "AYOUB_2_4",
+      "start_sec": 5.833,
+      "end_sec": 9.833,
+      "bars": 3,
+      "pattern": "D - K D - T - K"
+    },
+    {
+      "name": "MAQSUM_4_4",
+      "start_sec": 11.167,
+      "end_sec": 19.167,
+      "bars": 3,
+      "pattern": "D - T - K - D - - - T - K - T K"
+    },
+    {
+      "name": "BALADI_4_4",
+      "start_sec": 20.5,
+      "end_sec": 28.5,
+      "bars": 3,
+      "pattern": "D - D - K - D - - - T - K - T K"
+    },
+    {
+      "name": "SAIDI_4_4",
+      "start_sec": 29.833,
+      "end_sec": 37.833,
+      "bars": 3,
+      "pattern": "D - T - K - D - D - T - K - T K"
+    }
+  ]
+}

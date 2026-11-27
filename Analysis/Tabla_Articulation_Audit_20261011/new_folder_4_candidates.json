@@ -1,0 +1,46 @@
+[
+  {
+    "name": "413781__pjcohen__doumbek_slap1.wav",
+    "sr": 44100,
+    "channels": 2,
+    "length_sec": 0.521,
+    "peak_dbfs": -4.77,
+    "rms_dbfs": -28.94,
+    "tail_sec": 0.13,
+    "bass_energy_ratio": 0.062,
+    "sha256": "c534ef705bcb339c7d72fc46e23149680194ab0a46abf97d2340f17bbf040d96"
+  },
+  {
+    "name": "413782__pjcohen__doumbek_mute2.wav",
+    "sr": 44100,
+    "channels": 2,
+    "length_sec": 0.748,
+    "peak_dbfs": -0.0,
+    "rms_dbfs": -24.99,
+    "tail_sec": 0.13,
+    "bass_energy_ratio": 0.491,
+    "sha256": "4f6373db1240e5b91e22b93fc4ff1b6979c037918f0026751ec22931efb4899b"
+  },
+  {
+    "name": "413798__pjcohen__doumbek_ka2.wav",
+    "sr": 44100,
+    "channels": 2,
+    "length_sec": 1.233,
+    "peak_dbfs": -0.94,
+    "rms_dbfs": -25.18,
+    "tail_sec": 0.32,
+    "bass_energy_ratio": 0.0,
+    "sha256": "90872bc4672288fa4c9f58876be1050bc564fbbe2aef61e6bd8015738627c95d"
+  },
+  {
+    "name": "Darbuka_68_76_SP.wav",
+    "sr": 44100,
+    "channels": 2,
+    "length_sec": 0.683,
+    "peak_dbfs": -0.3,
+    "rms_dbfs": -18.79,
+    "tail_sec": 0.52,
+    "bass_energy_ratio": 0.974,
+    "sha256": "228ed0f2b83adcbcfc6ea65b09a085add8d92f72f06a70e8620626bb953e4102"
+  }
+]

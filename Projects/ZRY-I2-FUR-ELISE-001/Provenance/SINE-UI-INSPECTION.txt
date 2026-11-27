@@ -1,0 +1,3 @@
+TRACK=Strand_Nylon FX_COUNT=1
+FX_NAME=VST3i: SINE Player (Orchestral Tools)
+SHOW_REQUESTED=true

@@ -1,0 +1,25 @@
+{
+  "organ": {
+    "target_db": -21.0,
+    "gain_db": 13.58503448933809
+  },
+  "trumpet": {
+    "target_db": -19.8,
+    "gain_db": 31.200768381666993
+  },
+  "bass": {
+    "target_db": -23.2,
+    "gain_db": 8.37311513176039
+  },
+  "tabla": {
+    "target_db": -24.5,
+    "gain_db": -1.2257027926840822
+  },
+  "master": {
+    "peak_dbfs": -1.2000000000000006,
+    "rms_dbfs": -24.052022059201157,
+    "duration_sec": 38.0,
+    "output": "%ZIRYAB_SAMPLES%\\ZIRYAB-NIGHT-ORGAN-003-v3-CONTINUOUS.wav",
+    "organ_mode": "continuous sustained bed; ornaments removed"
+  }
+}

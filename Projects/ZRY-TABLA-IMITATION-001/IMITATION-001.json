@@ -1,0 +1,14 @@
+{
+  "exercise": "Imitation 001",
+  "source_model": "PlayDarbuka Maqsum Classic lead darbuka line",
+  "source_pattern": "D - T - t k T - D - t k T - t k",
+  "bpm": 110,
+  "bars": 6,
+  "grid": "1/16",
+  "rule": "copy only; no added notes, rolls, mute, slap, or humanization",
+  "articulation_notes": {
+    "D": "Darbuka_68_76_SP.wav",
+    "T/t": "tak_02_03 + tak_02_07; lowercase = lower velocity only",
+    "k": "verified KA-category sample; not relabeled KAH_LEFT"
+  }
+}

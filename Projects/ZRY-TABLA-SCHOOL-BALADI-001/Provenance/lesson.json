@@ -1,0 +1,567 @@
+{
+  "lesson": "TABLA FOUNDATION / BALADI 001",
+  "bpm": 82.0,
+  "meter": "4/4",
+  "grid": "1/16",
+  "bars": 8,
+  "duration_sec": 24.065,
+  "base_pattern": "D - D - | K - D - | - - T - | K - T K",
+  "variation_pattern": "D t D - | K - D k | t - T - | K t T K",
+  "plan": [
+    "BASE",
+    "BASE",
+    "BASE",
+    "VAR",
+    "VAR",
+    "BASE",
+    "VAR",
+    "BASE"
+  ],
+  "microtiming": "NONE; grid-exact foundation pass",
+  "humanization": "OFF",
+  "articulation_boundary": "K = real Ka-category sample; NOT asserted KAH_LEFT",
+  "samples": {
+    "D": "%ZIRYAB_SAMPLES%\\New folder\\Darbuka_68_76_SP.wav",
+    "T": [
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\tak_02_03.flac",
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\tak_02_07.flac"
+    ],
+    "K": "%ZIRYAB_SAMPLES%\\New folder\\413798__pjcohen__doumbek_ka2.wav"
+  },
+  "event_count": 76,
+  "events": [
+    {
+      "bar": 1,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 0.0,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 3,
+      "stroke": "D",
+      "time_sec": 0.365854,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 0.731707,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 1.097561,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 1.829268,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 2.195122,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 2.560976,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 1,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 2.743902,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 2.926829,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 3,
+      "stroke": "D",
+      "time_sec": 3.292683,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 3.658537,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 4.02439,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 4.756098,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 5.121951,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 5.487805,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 2,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 5.670732,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 5.853659,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 3,
+      "stroke": "D",
+      "time_sec": 6.219512,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 6.585366,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 6.95122,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 7.682927,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 8.04878,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 8.414634,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 3,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 8.597561,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 8.780488,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 2,
+      "stroke": "t",
+      "time_sec": 8.963415,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 3,
+      "stroke": "D",
+      "time_sec": 9.146341,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 9.512195,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 9.878049,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 8,
+      "stroke": "k",
+      "time_sec": 10.060976,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 9,
+      "stroke": "t",
+      "time_sec": 10.243902,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 10.609756,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 10.97561,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 14,
+      "stroke": "t",
+      "time_sec": 11.158537,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 11.341463,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 4,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 11.52439,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 11.707317,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 2,
+      "stroke": "t",
+      "time_sec": 11.890244,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 3,
+      "stroke": "D",
+      "time_sec": 12.073171,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 12.439024,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 12.804878,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 8,
+      "stroke": "k",
+      "time_sec": 12.987805,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 9,
+      "stroke": "t",
+      "time_sec": 13.170732,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 13.536585,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 13.902439,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 14,
+      "stroke": "t",
+      "time_sec": 14.085366,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 14.268293,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 5,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 14.45122,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 14.634146,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 3,
+      "stroke": "D",
+      "time_sec": 15.0,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 15.365854,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 15.731707,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 16.463415,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 16.829268,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 17.195122,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 6,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 17.378049,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 17.560976,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 2,
+      "stroke": "t",
+      "time_sec": 17.743902,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 3,
+      "stroke": "D",
+      "time_sec": 17.926829,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 18.292683,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 18.658537,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 8,
+      "stroke": "k",
+      "time_sec": 18.841463,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 9,
+      "stroke": "t",
+      "time_sec": 19.02439,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 19.390244,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 19.756098,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 14,
+      "stroke": "t",
+      "time_sec": 19.939024,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 20.121951,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 7,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 20.304878,
+      "pattern": "VAR"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 20.487805,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 3,
+      "stroke": "D",
+      "time_sec": 20.853659,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 5,
+      "stroke": "K",
+      "time_sec": 21.219512,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 7,
+      "stroke": "D",
+      "time_sec": 21.585366,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 11,
+      "stroke": "T",
+      "time_sec": 22.317073,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 13,
+      "stroke": "K",
+      "time_sec": 22.682927,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 15,
+      "stroke": "T",
+      "time_sec": 23.04878,
+      "pattern": "BASE"
+    },
+    {
+      "bar": 8,
+      "slot_1based": 16,
+      "stroke": "K",
+      "time_sec": 23.231707,
+      "pattern": "BASE"
+    }
+  ],
+  "goal": "preserve Baladi identity through a small supporting-stroke variation"
+}

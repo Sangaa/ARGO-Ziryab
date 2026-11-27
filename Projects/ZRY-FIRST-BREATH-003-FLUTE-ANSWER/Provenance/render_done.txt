@@ -1,0 +1,12 @@
+tracks=5
+gain	Strand_Nylon	1.000000
+gain	Lucent_Flute	1.000000
+gain	Helix_Strings	1.000000
+gain	Ratio_Piano	1.000000
+gain	Crux_JBass	1.000000
+rendered	ZRY-FIRST-BREATH-003-FLUTE-ANSWER-stem-Strand_Nylon
+rendered	ZRY-FIRST-BREATH-003-FLUTE-ANSWER-stem-Lucent_Flute
+rendered	ZRY-FIRST-BREATH-003-FLUTE-ANSWER-stem-Helix_Strings
+rendered	ZRY-FIRST-BREATH-003-FLUTE-ANSWER-stem-Ratio_Piano
+rendered	ZRY-FIRST-BREATH-003-FLUTE-ANSWER-stem-Crux_JBass
+rendered	ZRY-FIRST-BREATH-003-FLUTE-ANSWER-mix

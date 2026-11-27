@@ -1,0 +1,54 @@
+{
+  "status": "GAP_CONFIRMED_LOCAL_AUDIT",
+  "note": "Filename labels not equivalent to independent acoustic authenticity or verified left/right hand. PA is NOT SAK. TAK is NOT KAH.",
+  "available_candidates": {
+    "DUM_OPEN": [
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\doom_01_01.flac",
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\doom_01_04.flac",
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\doom_01_07.flac",
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\doom_01_10.flac"
+    ],
+    "TAK_RIGHT": [
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\tak_02_01.flac",
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\tak_02_03.flac",
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\tak_02_05.flac",
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\tak_02_07.flac"
+    ],
+    "PA_UNCLASSIFIED": [
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\pa_03_01.flac",
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\pa_03_03.flac",
+      "%ZIRYAB_STUDIO%\\Samples\\CC0_Egyptian_Perc\\pa_03_05.flac"
+    ]
+  },
+  "missing_verified": [
+    "KAH_LEFT",
+    "DUM_CLOSED",
+    "SAK_MUTED_SLAP"
+  ],
+  "engine": {
+    "DUM_OPEN": {
+      "hand": "unspecified",
+      "velocity": "separate",
+      "default_gain_db_range": [
+        -3,
+        0
+      ],
+      "tail": "natural"
+    },
+    "TAK_RIGHT": {
+      "hand": "unverified_right",
+      "velocity": "separate",
+      "default_gain_db_range": [
+        -3,
+        0
+      ],
+      "tail": "natural"
+    },
+    "KAH_LEFT": null,
+    "DUM_CLOSED": null,
+    "SAK_MUTED_SLAP": null
+  },
+  "audit_file": "tabla_candidates.json",
+  "audition_file": "%ZIRYAB_STUDIO%\\Analysis\\Tabla_Articulation_Audit_20261011\\EXISTING_DUM_TAK_PA_AUDITION_NOT_KAH_SAK.wav",
+  "audition_sequence": "3 DUM, 3 TAK, 3 PA; each hit isolated; PA explicitly unclassified"
+}

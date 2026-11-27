@@ -1,0 +1,571 @@
+{
+  "bpm": 92.0,
+  "events": [
+    {
+      "bar": 2,
+      "slot": 0,
+      "stroke": "D",
+      "pattern": "open",
+      "time": 2.609141
+    },
+    {
+      "bar": 2,
+      "slot": 6,
+      "stroke": "T",
+      "pattern": "open",
+      "time": 3.587165
+    },
+    {
+      "bar": 2,
+      "slot": 12,
+      "stroke": "t",
+      "pattern": "open",
+      "time": 4.56696
+    },
+    {
+      "bar": 3,
+      "slot": 0,
+      "stroke": "D",
+      "pattern": "ghost",
+      "time": 5.216481
+    },
+    {
+      "bar": 3,
+      "slot": 4,
+      "stroke": "t",
+      "pattern": "ghost",
+      "time": 5.865957
+    },
+    {
+      "bar": 3,
+      "slot": 10,
+      "stroke": "T",
+      "pattern": "ghost",
+      "time": 6.848772
+    },
+    {
+      "bar": 3,
+      "slot": 12,
+      "stroke": "k",
+      "pattern": "ghost",
+      "time": 7.171911
+    },
+    {
+      "bar": 4,
+      "slot": 0,
+      "stroke": "D",
+      "pattern": "light",
+      "time": 7.825704
+    },
+    {
+      "bar": 4,
+      "slot": 2,
+      "stroke": "T",
+      "pattern": "light",
+      "time": 8.153063
+    },
+    {
+      "bar": 4,
+      "slot": 5,
+      "stroke": "k",
+      "pattern": "light",
+      "time": 8.638404
+    },
+    {
+      "bar": 4,
+      "slot": 8,
+      "stroke": "D",
+      "pattern": "light",
+      "time": 9.131664
+    },
+    {
+      "bar": 4,
+      "slot": 10,
+      "stroke": "t",
+      "pattern": "light",
+      "time": 9.455469
+    },
+    {
+      "bar": 4,
+      "slot": 14,
+      "stroke": "T",
+      "pattern": "light",
+      "time": 10.105124
+    },
+    {
+      "bar": 5,
+      "slot": 0,
+      "stroke": "D",
+      "pattern": "ghost",
+      "time": 10.436036
+    },
+    {
+      "bar": 5,
+      "slot": 4,
+      "stroke": "t",
+      "pattern": "ghost",
+      "time": 11.086395
+    },
+    {
+      "bar": 5,
+      "slot": 10,
+      "stroke": "T",
+      "pattern": "ghost",
+      "time": 12.06169
+    },
+    {
+      "bar": 5,
+      "slot": 12,
+      "stroke": "k",
+      "pattern": "ghost",
+      "time": 12.392336
+    },
+    {
+      "bar": 6,
+      "slot": 0,
+      "stroke": "D",
+      "pattern": "light",
+      "time": 13.044303
+    },
+    {
+      "bar": 6,
+      "slot": 2,
+      "stroke": "T",
+      "pattern": "light",
+      "time": 13.370006
+    },
+    {
+      "bar": 6,
+      "slot": 5,
+      "stroke": "k",
+      "pattern": "light",
+      "time": 13.858641
+    },
+    {
+      "bar": 6,
+      "slot": 8,
+      "stroke": "D",
+      "pattern": "light",
+      "time": 14.349304
+    },
+    {
+      "bar": 6,
+      "slot": 10,
+      "stroke": "t",
+      "pattern": "light",
+      "time": 14.669986
+    },
+    {
+      "bar": 6,
+      "slot": 14,
+      "stroke": "T",
+      "pattern": "light",
+      "time": 15.327934
+    },
+    {
+      "bar": 7,
+      "slot": 0,
+      "stroke": "D",
+      "pattern": "turn",
+      "time": 15.652602
+    },
+    {
+      "bar": 7,
+      "slot": 4,
+      "stroke": "t",
+      "pattern": "turn",
+      "time": 16.301865
+    },
+    {
+      "bar": 7,
+      "slot": 5,
+      "stroke": "k",
+      "pattern": "turn",
+      "time": 16.467066
+    },
+    {
+      "bar": 7,
+      "slot": 6,
+      "stroke": "T",
+      "pattern": "turn",
+      "time": 16.628462
+    },
+    {
+      "bar": 7,
+      "slot": 9,
+      "stroke": "k",
+      "pattern": "turn",
+      "time": 17.119467
+    },
+    {
+      "bar": 7,
+      "slot": 10,
+      "stroke": "t",
+      "pattern": "turn",
+      "time": 17.282834
+    },
+    {
+      "bar": 7,
+      "slot": 12,
+      "stroke": "M",
+      "pattern": "turn",
+      "time": 17.608768
+    },
+    {
+      "bar": 7,
+      "slot": 14,
+      "stroke": "T",
+      "pattern": "turn",
+      "time": 17.931375
+    },
+    {
+      "bar": 8,
+      "slot": 0,
+      "stroke": "D",
+      "pattern": "ghost",
+      "time": 18.260545
+    },
+    {
+      "bar": 8,
+      "slot": 4,
+      "stroke": "t",
+      "pattern": "ghost",
+      "time": 18.910856
+    },
+    {
+      "bar": 8,
+      "slot": 10,
+      "stroke": "T",
+      "pattern": "ghost",
+      "time": 19.891801
+    },
+    {
+      "bar": 8,
+      "slot": 12,
+      "stroke": "k",
+      "pattern": "ghost",
+      "time": 20.218979
+    },
+    {
+      "bar": 9,
+      "slot": 0,
+      "stroke": "D",
+      "pattern": "light",
+      "time": 20.870392
+    },
+    {
+      "bar": 9,
+      "slot": 2,
+      "stroke": "T",
+      "pattern": "light",
+      "time": 21.194835
+    },
+    {
+      "bar": 9,
+      "slot": 5,
+      "stroke": "k",
+      "pattern": "light",
+      "time": 21.681804
+    },
+    {
+      "bar": 9,
+      "slot": 8,
+      "stroke": "D",
+      "pattern": "light",
+      "time": 22.174536
+    },
+    {
+      "bar": 9,
+      "slot": 10,
+      "stroke": "t",
+      "pattern": "light",
+      "time": 22.49759
+    },
+    {
+      "bar": 9,
+      "slot": 14,
+      "stroke": "T",
+      "pattern": "light",
+      "time": 23.154158
+    },
+    {
+      "bar": 10,
+      "slot": 0,
+      "stroke": "D",
+      "pattern": "ghost",
+      "time": 23.47728
+    },
+    {
+      "bar": 10,
+      "slot": 4,
+      "stroke": "t",
+      "pattern": "ghost",
+      "time": 24.132244
+    },
+    {
+      "bar": 10,
+      "slot": 10,
+      "stroke": "T",
+      "pattern": "ghost",
+      "time": 25.104786
+    },
+    {
+      "bar": 10,
+      "slot": 12,
+      "stroke": "k",
+      "pattern": "ghost",
+      "time": 25.435461
+    },
+    {
+      "bar": 11,
+      "slot": 0,
+      "stroke": "D",
+      "pattern": "turn",
+      "time": 26.086496
+    },
+    {
+      "bar": 11,
+      "slot": 4,
+      "stroke": "t",
+      "pattern": "turn",
+      "time": 26.738575
+    },
+    {
+      "bar": 11,
+      "slot": 5,
+      "stroke": "k",
+      "pattern": "turn",
+      "time": 26.900669
+    },
+    {
+      "bar": 11,
+      "slot": 6,
+      "stroke": "T",
+      "pattern": "turn",
+      "time": 27.063065
+    },
+    {
+      "bar": 11,
+      "slot": 9,
+      "stroke": "k",
+      "pattern": "turn",
+      "time": 27.552974
+    },
+    {
+      "bar": 11,
+      "slot": 10,
+      "stroke": "t",
+      "pattern": "turn",
+      "time": 27.718286
+    },
+    {
+      "bar": 11,
+      "slot": 12,
+      "stroke": "M",
+      "pattern": "turn",
+      "time": 28.043036
+    },
+    {
+      "bar": 11,
+      "slot": 14,
+      "stroke": "T",
+      "pattern": "turn",
+      "time": 28.367731
+    },
+    {
+      "bar": 12,
+      "slot": 0,
+      "stroke": "D",
+      "pattern": "open",
+      "time": 28.696496
+    },
+    {
+      "bar": 12,
+      "slot": 6,
+      "stroke": "T",
+      "pattern": "open",
+      "time": 29.670979
+    },
+    {
+      "bar": 12,
+      "slot": 12,
+      "stroke": "t",
+      "pattern": "open",
+      "time": 30.650318
+    },
+    {
+      "bar": 13,
+      "slot": 0,
+      "stroke": "D",
+      "pattern": "ghost",
+      "time": 31.304397
+    },
+    {
+      "bar": 13,
+      "slot": 4,
+      "stroke": "t",
+      "pattern": "ghost",
+      "time": 31.955626
+    },
+    {
+      "bar": 13,
+      "slot": 10,
+      "stroke": "T",
+      "pattern": "ghost",
+      "time": 32.931802
+    },
+    {
+      "bar": 13,
+      "slot": 12,
+      "stroke": "k",
+      "pattern": "ghost",
+      "time": 33.261456
+    },
+    {
+      "bar": 14,
+      "slot": 0,
+      "stroke": "D",
+      "pattern": "turn",
+      "time": 33.913011
+    },
+    {
+      "bar": 14,
+      "slot": 4,
+      "stroke": "t",
+      "pattern": "turn",
+      "time": 34.561766
+    },
+    {
+      "bar": 14,
+      "slot": 5,
+      "stroke": "k",
+      "pattern": "turn",
+      "time": 34.726291
+    },
+    {
+      "bar": 14,
+      "slot": 6,
+      "stroke": "T",
+      "pattern": "turn",
+      "time": 34.887648
+    },
+    {
+      "bar": 14,
+      "slot": 9,
+      "stroke": "k",
+      "pattern": "turn",
+      "time": 35.378497
+    },
+    {
+      "bar": 14,
+      "slot": 10,
+      "stroke": "t",
+      "pattern": "turn",
+      "time": 35.540164
+    },
+    {
+      "bar": 14,
+      "slot": 12,
+      "stroke": "M",
+      "pattern": "turn",
+      "time": 35.868828
+    },
+    {
+      "bar": 14,
+      "slot": 14,
+      "stroke": "T",
+      "pattern": "turn",
+      "time": 36.194988
+    }
+  ],
+  "patterns": {
+    "ghost": [
+      "D",
+      "-",
+      "-",
+      "-",
+      "t",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "T",
+      "-",
+      "k",
+      "-",
+      "-",
+      "-"
+    ],
+    "light": [
+      "D",
+      "-",
+      "T",
+      "-",
+      "-",
+      "k",
+      "-",
+      "-",
+      "D",
+      "-",
+      "t",
+      "-",
+      "-",
+      "-",
+      "T",
+      "-"
+    ],
+    "turn": [
+      "D",
+      "-",
+      "-",
+      "-",
+      "t",
+      "k",
+      "T",
+      "-",
+      "-",
+      "k",
+      "t",
+      "-",
+      "M",
+      "-",
+      "T",
+      "-"
+    ],
+    "open": [
+      "D",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "T",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "t",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "plan": {
+    "1": null,
+    "2": "open",
+    "3": "ghost",
+    "4": "light",
+    "5": "ghost",
+    "6": "light",
+    "7": "turn",
+    "8": "ghost",
+    "9": "light",
+    "10": "ghost",
+    "11": "turn",
+    "12": "open",
+    "13": "ghost",
+    "14": "turn"
+  }
+}

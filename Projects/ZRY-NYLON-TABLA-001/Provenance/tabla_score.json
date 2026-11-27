@@ -1,0 +1,1152 @@
+{
+  "bpm": 96.0,
+  "bars": 17,
+  "plan": {
+    "1": null,
+    "2": "open",
+    "3": "basic",
+    "4": "basic",
+    "5": "light",
+    "6": "basic",
+    "7": "light",
+    "8": "drive",
+    "9": "light",
+    "10": "drive",
+    "11": "open",
+    "12": "break1",
+    "13": "basic",
+    "14": "light",
+    "15": "drive",
+    "16": "turn",
+    "17": "coda"
+  },
+  "patterns": {
+    "basic": [
+      "D",
+      "-",
+      "T",
+      "-",
+      "-",
+      "-",
+      "T",
+      "-",
+      "D",
+      "-",
+      "T",
+      "-",
+      "-",
+      "-",
+      "T",
+      "-"
+    ],
+    "light": [
+      "D",
+      "-",
+      "T",
+      "-",
+      "t",
+      "k",
+      "T",
+      "-",
+      "D",
+      "-",
+      "t",
+      "k",
+      "T",
+      "-",
+      "t",
+      "k"
+    ],
+    "drive": [
+      "D",
+      "-",
+      "T",
+      "k",
+      "t",
+      "k",
+      "T",
+      "-",
+      "D",
+      "k",
+      "t",
+      "k",
+      "T",
+      "k",
+      "t",
+      "k"
+    ],
+    "open": [
+      "D",
+      "-",
+      "-",
+      "-",
+      "T",
+      "-",
+      "-",
+      "-",
+      "D",
+      "-",
+      "-",
+      "-",
+      "T",
+      "-",
+      "-",
+      "-"
+    ],
+    "break1": [
+      "D",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "T",
+      "-",
+      "-",
+      "-",
+      "K",
+      "-",
+      "S",
+      "-",
+      "T",
+      "-"
+    ],
+    "turn": [
+      "-",
+      "-",
+      "k",
+      "k",
+      "D",
+      "-",
+      "t",
+      "k",
+      "T",
+      "t",
+      "k",
+      "T",
+      "k",
+      "t",
+      "K",
+      "-"
+    ],
+    "coda": [
+      "D",
+      "-",
+      "-",
+      "-",
+      "t",
+      "k",
+      "-",
+      "-",
+      "-",
+      "-",
+      "T",
+      "-",
+      "k",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "event_count": 141,
+  "events": [
+    {
+      "bar": 2,
+      "slot": 0,
+      "stroke": "D",
+      "time": 2.500709,
+      "pattern": "open"
+    },
+    {
+      "bar": 2,
+      "slot": 4,
+      "stroke": "T",
+      "time": 3.125994,
+      "pattern": "open"
+    },
+    {
+      "bar": 2,
+      "slot": 8,
+      "stroke": "D",
+      "time": 3.750082,
+      "pattern": "open"
+    },
+    {
+      "bar": 2,
+      "slot": 12,
+      "stroke": "T",
+      "time": 4.37408,
+      "pattern": "open"
+    },
+    {
+      "bar": 3,
+      "slot": 0,
+      "stroke": "D",
+      "time": 4.999574,
+      "pattern": "basic"
+    },
+    {
+      "bar": 3,
+      "slot": 2,
+      "stroke": "T",
+      "time": 5.314978,
+      "pattern": "basic"
+    },
+    {
+      "bar": 3,
+      "slot": 6,
+      "stroke": "T",
+      "time": 5.935026,
+      "pattern": "basic"
+    },
+    {
+      "bar": 3,
+      "slot": 8,
+      "stroke": "D",
+      "time": 6.248593,
+      "pattern": "basic"
+    },
+    {
+      "bar": 3,
+      "slot": 10,
+      "stroke": "T",
+      "time": 6.559828,
+      "pattern": "basic"
+    },
+    {
+      "bar": 3,
+      "slot": 14,
+      "stroke": "T",
+      "time": 7.184823,
+      "pattern": "basic"
+    },
+    {
+      "bar": 4,
+      "slot": 0,
+      "stroke": "D",
+      "time": 7.499309,
+      "pattern": "basic"
+    },
+    {
+      "bar": 4,
+      "slot": 2,
+      "stroke": "T",
+      "time": 7.809875,
+      "pattern": "basic"
+    },
+    {
+      "bar": 4,
+      "slot": 6,
+      "stroke": "T",
+      "time": 8.433754,
+      "pattern": "basic"
+    },
+    {
+      "bar": 4,
+      "slot": 8,
+      "stroke": "D",
+      "time": 8.749302,
+      "pattern": "basic"
+    },
+    {
+      "bar": 4,
+      "slot": 10,
+      "stroke": "T",
+      "time": 9.060177,
+      "pattern": "basic"
+    },
+    {
+      "bar": 4,
+      "slot": 14,
+      "stroke": "T",
+      "time": 9.686985,
+      "pattern": "basic"
+    },
+    {
+      "bar": 5,
+      "slot": 0,
+      "stroke": "D",
+      "time": 9.998807,
+      "pattern": "light"
+    },
+    {
+      "bar": 5,
+      "slot": 2,
+      "stroke": "T",
+      "time": 10.308496,
+      "pattern": "light"
+    },
+    {
+      "bar": 5,
+      "slot": 4,
+      "stroke": "t",
+      "time": 10.621918,
+      "pattern": "light"
+    },
+    {
+      "bar": 5,
+      "slot": 5,
+      "stroke": "k",
+      "time": 10.780547,
+      "pattern": "light"
+    },
+    {
+      "bar": 5,
+      "slot": 6,
+      "stroke": "T",
+      "time": 10.93572,
+      "pattern": "light"
+    },
+    {
+      "bar": 5,
+      "slot": 8,
+      "stroke": "D",
+      "time": 11.250934,
+      "pattern": "light"
+    },
+    {
+      "bar": 5,
+      "slot": 10,
+      "stroke": "t",
+      "time": 11.563621,
+      "pattern": "light"
+    },
+    {
+      "bar": 5,
+      "slot": 11,
+      "stroke": "k",
+      "time": 11.717151,
+      "pattern": "light"
+    },
+    {
+      "bar": 5,
+      "slot": 12,
+      "stroke": "T",
+      "time": 11.871196,
+      "pattern": "light"
+    },
+    {
+      "bar": 5,
+      "slot": 14,
+      "stroke": "t",
+      "time": 12.188096,
+      "pattern": "light"
+    },
+    {
+      "bar": 5,
+      "slot": 15,
+      "stroke": "k",
+      "time": 12.34454,
+      "pattern": "light"
+    },
+    {
+      "bar": 6,
+      "slot": 0,
+      "stroke": "D",
+      "time": 12.499584,
+      "pattern": "basic"
+    },
+    {
+      "bar": 6,
+      "slot": 2,
+      "stroke": "T",
+      "time": 12.812608,
+      "pattern": "basic"
+    },
+    {
+      "bar": 6,
+      "slot": 6,
+      "stroke": "T",
+      "time": 13.435093,
+      "pattern": "basic"
+    },
+    {
+      "bar": 6,
+      "slot": 8,
+      "stroke": "D",
+      "time": 13.75166,
+      "pattern": "basic"
+    },
+    {
+      "bar": 6,
+      "slot": 10,
+      "stroke": "T",
+      "time": 14.063837,
+      "pattern": "basic"
+    },
+    {
+      "bar": 6,
+      "slot": 14,
+      "stroke": "T",
+      "time": 14.688544,
+      "pattern": "basic"
+    },
+    {
+      "bar": 7,
+      "slot": 0,
+      "stroke": "D",
+      "time": 15.001816,
+      "pattern": "light"
+    },
+    {
+      "bar": 7,
+      "slot": 2,
+      "stroke": "T",
+      "time": 15.30963,
+      "pattern": "light"
+    },
+    {
+      "bar": 7,
+      "slot": 4,
+      "stroke": "t",
+      "time": 15.624317,
+      "pattern": "light"
+    },
+    {
+      "bar": 7,
+      "slot": 5,
+      "stroke": "k",
+      "time": 15.78187,
+      "pattern": "light"
+    },
+    {
+      "bar": 7,
+      "slot": 6,
+      "stroke": "T",
+      "time": 15.93861,
+      "pattern": "light"
+    },
+    {
+      "bar": 7,
+      "slot": 8,
+      "stroke": "D",
+      "time": 16.249561,
+      "pattern": "light"
+    },
+    {
+      "bar": 7,
+      "slot": 10,
+      "stroke": "t",
+      "time": 16.55897,
+      "pattern": "light"
+    },
+    {
+      "bar": 7,
+      "slot": 11,
+      "stroke": "k",
+      "time": 16.718634,
+      "pattern": "light"
+    },
+    {
+      "bar": 7,
+      "slot": 12,
+      "stroke": "T",
+      "time": 16.871232,
+      "pattern": "light"
+    },
+    {
+      "bar": 7,
+      "slot": 14,
+      "stroke": "t",
+      "time": 17.187938,
+      "pattern": "light"
+    },
+    {
+      "bar": 7,
+      "slot": 15,
+      "stroke": "k",
+      "time": 17.339299,
+      "pattern": "light"
+    },
+    {
+      "bar": 8,
+      "slot": 0,
+      "stroke": "D",
+      "time": 17.499818,
+      "pattern": "drive"
+    },
+    {
+      "bar": 8,
+      "slot": 2,
+      "stroke": "T",
+      "time": 17.811358,
+      "pattern": "drive"
+    },
+    {
+      "bar": 8,
+      "slot": 3,
+      "stroke": "k",
+      "time": 17.965089,
+      "pattern": "drive"
+    },
+    {
+      "bar": 8,
+      "slot": 4,
+      "stroke": "t",
+      "time": 18.123861,
+      "pattern": "drive"
+    },
+    {
+      "bar": 8,
+      "slot": 5,
+      "stroke": "k",
+      "time": 18.28025,
+      "pattern": "drive"
+    },
+    {
+      "bar": 8,
+      "slot": 6,
+      "stroke": "T",
+      "time": 18.435584,
+      "pattern": "drive"
+    },
+    {
+      "bar": 8,
+      "slot": 8,
+      "stroke": "D",
+      "time": 18.751585,
+      "pattern": "drive"
+    },
+    {
+      "bar": 8,
+      "slot": 9,
+      "stroke": "k",
+      "time": 18.907812,
+      "pattern": "drive"
+    },
+    {
+      "bar": 8,
+      "slot": 10,
+      "stroke": "t",
+      "time": 19.064234,
+      "pattern": "drive"
+    },
+    {
+      "bar": 8,
+      "slot": 11,
+      "stroke": "k",
+      "time": 19.215964,
+      "pattern": "drive"
+    },
+    {
+      "bar": 8,
+      "slot": 12,
+      "stroke": "T",
+      "time": 19.370681,
+      "pattern": "drive"
+    },
+    {
+      "bar": 8,
+      "slot": 13,
+      "stroke": "k",
+      "time": 19.529386,
+      "pattern": "drive"
+    },
+    {
+      "bar": 8,
+      "slot": 14,
+      "stroke": "t",
+      "time": 19.683796,
+      "pattern": "drive"
+    },
+    {
+      "bar": 8,
+      "slot": 15,
+      "stroke": "k",
+      "time": 19.844187,
+      "pattern": "drive"
+    },
+    {
+      "bar": 9,
+      "slot": 0,
+      "stroke": "D",
+      "time": 19.999052,
+      "pattern": "light"
+    },
+    {
+      "bar": 9,
+      "slot": 2,
+      "stroke": "T",
+      "time": 20.308899,
+      "pattern": "light"
+    },
+    {
+      "bar": 9,
+      "slot": 4,
+      "stroke": "t",
+      "time": 20.622486,
+      "pattern": "light"
+    },
+    {
+      "bar": 9,
+      "slot": 5,
+      "stroke": "k",
+      "time": 20.779574,
+      "pattern": "light"
+    },
+    {
+      "bar": 9,
+      "slot": 6,
+      "stroke": "T",
+      "time": 20.938148,
+      "pattern": "light"
+    },
+    {
+      "bar": 9,
+      "slot": 8,
+      "stroke": "D",
+      "time": 21.249844,
+      "pattern": "light"
+    },
+    {
+      "bar": 9,
+      "slot": 10,
+      "stroke": "t",
+      "time": 21.560108,
+      "pattern": "light"
+    },
+    {
+      "bar": 9,
+      "slot": 11,
+      "stroke": "k",
+      "time": 21.718992,
+      "pattern": "light"
+    },
+    {
+      "bar": 9,
+      "slot": 12,
+      "stroke": "T",
+      "time": 21.870817,
+      "pattern": "light"
+    },
+    {
+      "bar": 9,
+      "slot": 14,
+      "stroke": "t",
+      "time": 22.184464,
+      "pattern": "light"
+    },
+    {
+      "bar": 9,
+      "slot": 15,
+      "stroke": "k",
+      "time": 22.344062,
+      "pattern": "light"
+    },
+    {
+      "bar": 10,
+      "slot": 0,
+      "stroke": "D",
+      "time": 22.501008,
+      "pattern": "drive"
+    },
+    {
+      "bar": 10,
+      "slot": 2,
+      "stroke": "T",
+      "time": 22.808709,
+      "pattern": "drive"
+    },
+    {
+      "bar": 10,
+      "slot": 3,
+      "stroke": "k",
+      "time": 22.964715,
+      "pattern": "drive"
+    },
+    {
+      "bar": 10,
+      "slot": 4,
+      "stroke": "t",
+      "time": 23.124041,
+      "pattern": "drive"
+    },
+    {
+      "bar": 10,
+      "slot": 5,
+      "stroke": "k",
+      "time": 23.281345,
+      "pattern": "drive"
+    },
+    {
+      "bar": 10,
+      "slot": 6,
+      "stroke": "T",
+      "time": 23.433113,
+      "pattern": "drive"
+    },
+    {
+      "bar": 10,
+      "slot": 8,
+      "stroke": "D",
+      "time": 23.749747,
+      "pattern": "drive"
+    },
+    {
+      "bar": 10,
+      "slot": 9,
+      "stroke": "k",
+      "time": 23.903674,
+      "pattern": "drive"
+    },
+    {
+      "bar": 10,
+      "slot": 10,
+      "stroke": "t",
+      "time": 24.058596,
+      "pattern": "drive"
+    },
+    {
+      "bar": 10,
+      "slot": 11,
+      "stroke": "k",
+      "time": 24.215448,
+      "pattern": "drive"
+    },
+    {
+      "bar": 10,
+      "slot": 12,
+      "stroke": "T",
+      "time": 24.372501,
+      "pattern": "drive"
+    },
+    {
+      "bar": 10,
+      "slot": 13,
+      "stroke": "k",
+      "time": 24.530019,
+      "pattern": "drive"
+    },
+    {
+      "bar": 10,
+      "slot": 14,
+      "stroke": "t",
+      "time": 24.683786,
+      "pattern": "drive"
+    },
+    {
+      "bar": 10,
+      "slot": 15,
+      "stroke": "k",
+      "time": 24.843592,
+      "pattern": "drive"
+    },
+    {
+      "bar": 11,
+      "slot": 0,
+      "stroke": "D",
+      "time": 25.001515,
+      "pattern": "open"
+    },
+    {
+      "bar": 11,
+      "slot": 4,
+      "stroke": "T",
+      "time": 25.625288,
+      "pattern": "open"
+    },
+    {
+      "bar": 11,
+      "slot": 8,
+      "stroke": "D",
+      "time": 26.248272,
+      "pattern": "open"
+    },
+    {
+      "bar": 11,
+      "slot": 12,
+      "stroke": "T",
+      "time": 26.875039,
+      "pattern": "open"
+    },
+    {
+      "bar": 12,
+      "slot": 0,
+      "stroke": "D",
+      "time": 27.500535,
+      "pattern": "break1"
+    },
+    {
+      "bar": 12,
+      "slot": 6,
+      "stroke": "T",
+      "time": 28.433061,
+      "pattern": "break1"
+    },
+    {
+      "bar": 12,
+      "slot": 10,
+      "stroke": "K",
+      "time": 29.060693,
+      "pattern": "break1"
+    },
+    {
+      "bar": 12,
+      "slot": 12,
+      "stroke": "S",
+      "time": 29.375068,
+      "pattern": "break1"
+    },
+    {
+      "bar": 12,
+      "slot": 14,
+      "stroke": "T",
+      "time": 29.689651,
+      "pattern": "break1"
+    },
+    {
+      "bar": 13,
+      "slot": 0,
+      "stroke": "D",
+      "time": 30.001716,
+      "pattern": "basic"
+    },
+    {
+      "bar": 13,
+      "slot": 2,
+      "stroke": "T",
+      "time": 30.311987,
+      "pattern": "basic"
+    },
+    {
+      "bar": 13,
+      "slot": 6,
+      "stroke": "T",
+      "time": 30.937122,
+      "pattern": "basic"
+    },
+    {
+      "bar": 13,
+      "slot": 8,
+      "stroke": "D",
+      "time": 31.251834,
+      "pattern": "basic"
+    },
+    {
+      "bar": 13,
+      "slot": 10,
+      "stroke": "T",
+      "time": 31.559474,
+      "pattern": "basic"
+    },
+    {
+      "bar": 13,
+      "slot": 14,
+      "stroke": "T",
+      "time": 32.186564,
+      "pattern": "basic"
+    },
+    {
+      "bar": 14,
+      "slot": 0,
+      "stroke": "D",
+      "time": 32.498246,
+      "pattern": "light"
+    },
+    {
+      "bar": 14,
+      "slot": 2,
+      "stroke": "T",
+      "time": 32.813422,
+      "pattern": "light"
+    },
+    {
+      "bar": 14,
+      "slot": 4,
+      "stroke": "t",
+      "time": 33.125076,
+      "pattern": "light"
+    },
+    {
+      "bar": 14,
+      "slot": 5,
+      "stroke": "k",
+      "time": 33.278224,
+      "pattern": "light"
+    },
+    {
+      "bar": 14,
+      "slot": 6,
+      "stroke": "T",
+      "time": 33.43438,
+      "pattern": "light"
+    },
+    {
+      "bar": 14,
+      "slot": 8,
+      "stroke": "D",
+      "time": 33.750095,
+      "pattern": "light"
+    },
+    {
+      "bar": 14,
+      "slot": 10,
+      "stroke": "t",
+      "time": 34.063262,
+      "pattern": "light"
+    },
+    {
+      "bar": 14,
+      "slot": 11,
+      "stroke": "k",
+      "time": 34.215201,
+      "pattern": "light"
+    },
+    {
+      "bar": 14,
+      "slot": 12,
+      "stroke": "T",
+      "time": 34.372764,
+      "pattern": "light"
+    },
+    {
+      "bar": 14,
+      "slot": 14,
+      "stroke": "t",
+      "time": 34.686589,
+      "pattern": "light"
+    },
+    {
+      "bar": 14,
+      "slot": 15,
+      "stroke": "k",
+      "time": 34.841078,
+      "pattern": "light"
+    },
+    {
+      "bar": 15,
+      "slot": 0,
+      "stroke": "D",
+      "time": 35.001538,
+      "pattern": "drive"
+    },
+    {
+      "bar": 15,
+      "slot": 2,
+      "stroke": "T",
+      "time": 35.313075,
+      "pattern": "drive"
+    },
+    {
+      "bar": 15,
+      "slot": 3,
+      "stroke": "k",
+      "time": 35.470938,
+      "pattern": "drive"
+    },
+    {
+      "bar": 15,
+      "slot": 4,
+      "stroke": "t",
+      "time": 35.624987,
+      "pattern": "drive"
+    },
+    {
+      "bar": 15,
+      "slot": 5,
+      "stroke": "k",
+      "time": 35.781519,
+      "pattern": "drive"
+    },
+    {
+      "bar": 15,
+      "slot": 6,
+      "stroke": "T",
+      "time": 35.934998,
+      "pattern": "drive"
+    },
+    {
+      "bar": 15,
+      "slot": 8,
+      "stroke": "D",
+      "time": 36.250019,
+      "pattern": "drive"
+    },
+    {
+      "bar": 15,
+      "slot": 9,
+      "stroke": "k",
+      "time": 36.404755,
+      "pattern": "drive"
+    },
+    {
+      "bar": 15,
+      "slot": 10,
+      "stroke": "t",
+      "time": 36.561349,
+      "pattern": "drive"
+    },
+    {
+      "bar": 15,
+      "slot": 11,
+      "stroke": "k",
+      "time": 36.714687,
+      "pattern": "drive"
+    },
+    {
+      "bar": 15,
+      "slot": 12,
+      "stroke": "T",
+      "time": 36.876448,
+      "pattern": "drive"
+    },
+    {
+      "bar": 15,
+      "slot": 13,
+      "stroke": "k",
+      "time": 37.027831,
+      "pattern": "drive"
+    },
+    {
+      "bar": 15,
+      "slot": 14,
+      "stroke": "t",
+      "time": 37.186208,
+      "pattern": "drive"
+    },
+    {
+      "bar": 15,
+      "slot": 15,
+      "stroke": "k",
+      "time": 37.34576,
+      "pattern": "drive"
+    },
+    {
+      "bar": 16,
+      "slot": 2,
+      "stroke": "k",
+      "time": 37.811591,
+      "pattern": "turn"
+    },
+    {
+      "bar": 16,
+      "slot": 3,
+      "stroke": "k",
+      "time": 37.97033,
+      "pattern": "turn"
+    },
+    {
+      "bar": 16,
+      "slot": 4,
+      "stroke": "D",
+      "time": 38.124042,
+      "pattern": "turn"
+    },
+    {
+      "bar": 16,
+      "slot": 6,
+      "stroke": "t",
+      "time": 38.436268,
+      "pattern": "turn"
+    },
+    {
+      "bar": 16,
+      "slot": 7,
+      "stroke": "k",
+      "time": 38.591905,
+      "pattern": "turn"
+    },
+    {
+      "bar": 16,
+      "slot": 8,
+      "stroke": "T",
+      "time": 38.74777,
+      "pattern": "turn"
+    },
+    {
+      "bar": 16,
+      "slot": 9,
+      "stroke": "t",
+      "time": 38.904336,
+      "pattern": "turn"
+    },
+    {
+      "bar": 16,
+      "slot": 10,
+      "stroke": "k",
+      "time": 39.061117,
+      "pattern": "turn"
+    },
+    {
+      "bar": 16,
+      "slot": 11,
+      "stroke": "T",
+      "time": 39.220142,
+      "pattern": "turn"
+    },
+    {
+      "bar": 16,
+      "slot": 12,
+      "stroke": "k",
+      "time": 39.377297,
+      "pattern": "turn"
+    },
+    {
+      "bar": 16,
+      "slot": 13,
+      "stroke": "t",
+      "time": 39.527412,
+      "pattern": "turn"
+    },
+    {
+      "bar": 16,
+      "slot": 14,
+      "stroke": "K",
+      "time": 39.687674,
+      "pattern": "turn"
+    },
+    {
+      "bar": 17,
+      "slot": 0,
+      "stroke": "D",
+      "time": 40.000115,
+      "pattern": "coda"
+    },
+    {
+      "bar": 17,
+      "slot": 4,
+      "stroke": "t",
+      "time": 40.623392,
+      "pattern": "coda"
+    },
+    {
+      "bar": 17,
+      "slot": 5,
+      "stroke": "k",
+      "time": 40.777035,
+      "pattern": "coda"
+    },
+    {
+      "bar": 17,
+      "slot": 10,
+      "stroke": "T",
+      "time": 41.560533,
+      "pattern": "coda"
+    },
+    {
+      "bar": 17,
+      "slot": 12,
+      "stroke": "k",
+      "time": 41.872719,
+      "pattern": "coda"
+    },
+    {
+      "bar": 12,
+      "slot": "pickup",
+      "stroke": "M",
+      "time": 29.81,
+      "pattern": "return_pickup"
+    }
+  ],
+  "samples": {
+    "D": "Darbuka_68_76_SP.wav",
+    "T": [
+      "tak_02_03.flac",
+      "tak_02_07.flac"
+    ],
+    "K": "413798__pjcohen__doumbek_ka2.wav",
+    "S": "413781__pjcohen__doumbek_slap1.wav",
+    "M": "413782__pjcohen__doumbek_mute2.wav"
+  },
+  "note": "built for this composition; no loop copy across full piece"
+}

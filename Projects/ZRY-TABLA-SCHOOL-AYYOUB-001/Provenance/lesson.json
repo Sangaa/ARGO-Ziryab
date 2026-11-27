@@ -1,0 +1,255 @@
+{
+  "lesson": "TABLA FOUNDATION / AYYOUB 001",
+  "bpm": 82.0,
+  "meter": "2/4",
+  "grid": "1/16",
+  "bars": 8,
+  "pattern": "D - K D | - T - K",
+  "variation": "OFF",
+  "humanization": "OFF",
+  "microtiming": "NONE",
+  "goal": "establish a distinct Ayyoub identity before tempo transfer or variation",
+  "articulation_boundary": "K = real Ka-category sample; NOT asserted KAH_LEFT",
+  "events": [
+    {
+      "bar": 1,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 0.0
+    },
+    {
+      "bar": 1,
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 0.365854
+    },
+    {
+      "bar": 1,
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 0.54878
+    },
+    {
+      "bar": 1,
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 0.914634
+    },
+    {
+      "bar": 1,
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 1.280488
+    },
+    {
+      "bar": 2,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 1.463415
+    },
+    {
+      "bar": 2,
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 1.829268
+    },
+    {
+      "bar": 2,
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 2.012195
+    },
+    {
+      "bar": 2,
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 2.378049
+    },
+    {
+      "bar": 2,
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 2.743902
+    },
+    {
+      "bar": 3,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 2.926829
+    },
+    {
+      "bar": 3,
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 3.292683
+    },
+    {
+      "bar": 3,
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 3.47561
+    },
+    {
+      "bar": 3,
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 3.841463
+    },
+    {
+      "bar": 3,
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 4.207317
+    },
+    {
+      "bar": 4,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 4.390244
+    },
+    {
+      "bar": 4,
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 4.756098
+    },
+    {
+      "bar": 4,
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 4.939024
+    },
+    {
+      "bar": 4,
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 5.304878
+    },
+    {
+      "bar": 4,
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 5.670732
+    },
+    {
+      "bar": 5,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 5.853659
+    },
+    {
+      "bar": 5,
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 6.219512
+    },
+    {
+      "bar": 5,
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 6.402439
+    },
+    {
+      "bar": 5,
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 6.768293
+    },
+    {
+      "bar": 5,
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 7.134146
+    },
+    {
+      "bar": 6,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 7.317073
+    },
+    {
+      "bar": 6,
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 7.682927
+    },
+    {
+      "bar": 6,
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 7.865854
+    },
+    {
+      "bar": 6,
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 8.231707
+    },
+    {
+      "bar": 6,
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 8.597561
+    },
+    {
+      "bar": 7,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 8.780488
+    },
+    {
+      "bar": 7,
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 9.146341
+    },
+    {
+      "bar": 7,
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 9.329268
+    },
+    {
+      "bar": 7,
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 9.695122
+    },
+    {
+      "bar": 7,
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 10.060976
+    },
+    {
+      "bar": 8,
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 10.243902
+    },
+    {
+      "bar": 8,
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 10.609756
+    },
+    {
+      "bar": 8,
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 10.792683
+    },
+    {
+      "bar": 8,
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 11.158537
+    },
+    {
+      "bar": 8,
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 11.52439
+    }
+  ]
+}

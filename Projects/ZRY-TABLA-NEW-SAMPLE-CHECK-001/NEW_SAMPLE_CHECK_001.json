@@ -1,0 +1,16 @@
+{
+  "isolated_file": "%ZIRYAB_SAMPLES%\\ZIRYAB-NEW-4-SAMPLES-ISOLATED.wav",
+  "ab_file": "%ZIRYAB_SAMPLES%\\ZIRYAB-MAQSUM-OLD-vs-NEW-DUM.wav",
+  "isolated_order": [
+    "SLAP_REAL",
+    "MUTE_REAL",
+    "KA_REAL_DOMINANT_HAND",
+    "DUM_LIKE_NOIIZ"
+  ],
+  "ab_order": [
+    "OLD_DUM",
+    "NEW_DUM_CANDIDATE"
+  ],
+  "fixed_tak": "doom comparison uses tak_02_03.flac unchanged",
+  "note": "KA is not claimed KAH_LEFT; SLAP is not claimed SAK; MUTE is not yet promoted to DUM_CLOSED."
+}

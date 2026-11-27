@@ -1,0 +1,230 @@
+{
+  "lesson": "RHYTHM IDENTITY CONTRAST 001",
+  "bpm": 82.0,
+  "grid": "1/8 teaching skeleton",
+  "maqsum": "D T - T | D - T -",
+  "baladi": "D D - T | D - T -",
+  "sequence": [
+    "MAQSUM",
+    "MAQSUM",
+    "BALADI",
+    "BALADI",
+    "MAQSUM",
+    "BALADI"
+  ],
+  "variation": "OFF",
+  "humanization": "OFF",
+  "goal": "make opening-weight identity audible before reintroducing denser 16th-grid detail",
+  "events": [
+    {
+      "bar": 1,
+      "rhythm": "MAQSUM",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 0.0
+    },
+    {
+      "bar": 1,
+      "rhythm": "MAQSUM",
+      "slot_1based": 2,
+      "stroke": "T",
+      "time_sec": 0.365854
+    },
+    {
+      "bar": 1,
+      "rhythm": "MAQSUM",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 1.097561
+    },
+    {
+      "bar": 1,
+      "rhythm": "MAQSUM",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 1.463415
+    },
+    {
+      "bar": 1,
+      "rhythm": "MAQSUM",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 2.195122
+    },
+    {
+      "bar": 2,
+      "rhythm": "MAQSUM",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 2.926829
+    },
+    {
+      "bar": 2,
+      "rhythm": "MAQSUM",
+      "slot_1based": 2,
+      "stroke": "T",
+      "time_sec": 3.292683
+    },
+    {
+      "bar": 2,
+      "rhythm": "MAQSUM",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 4.02439
+    },
+    {
+      "bar": 2,
+      "rhythm": "MAQSUM",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 4.390244
+    },
+    {
+      "bar": 2,
+      "rhythm": "MAQSUM",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 5.121951
+    },
+    {
+      "bar": 3,
+      "rhythm": "BALADI",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 5.853659
+    },
+    {
+      "bar": 3,
+      "rhythm": "BALADI",
+      "slot_1based": 2,
+      "stroke": "D",
+      "time_sec": 6.219512
+    },
+    {
+      "bar": 3,
+      "rhythm": "BALADI",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 6.95122
+    },
+    {
+      "bar": 3,
+      "rhythm": "BALADI",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 7.317073
+    },
+    {
+      "bar": 3,
+      "rhythm": "BALADI",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 8.04878
+    },
+    {
+      "bar": 4,
+      "rhythm": "BALADI",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 8.780488
+    },
+    {
+      "bar": 4,
+      "rhythm": "BALADI",
+      "slot_1based": 2,
+      "stroke": "D",
+      "time_sec": 9.146341
+    },
+    {
+      "bar": 4,
+      "rhythm": "BALADI",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 9.878049
+    },
+    {
+      "bar": 4,
+      "rhythm": "BALADI",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 10.243902
+    },
+    {
+      "bar": 4,
+      "rhythm": "BALADI",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 10.97561
+    },
+    {
+      "bar": 5,
+      "rhythm": "MAQSUM",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 11.707317
+    },
+    {
+      "bar": 5,
+      "rhythm": "MAQSUM",
+      "slot_1based": 2,
+      "stroke": "T",
+      "time_sec": 12.073171
+    },
+    {
+      "bar": 5,
+      "rhythm": "MAQSUM",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 12.804878
+    },
+    {
+      "bar": 5,
+      "rhythm": "MAQSUM",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 13.170732
+    },
+    {
+      "bar": 5,
+      "rhythm": "MAQSUM",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 13.902439
+    },
+    {
+      "bar": 6,
+      "rhythm": "BALADI",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 14.634146
+    },
+    {
+      "bar": 6,
+      "rhythm": "BALADI",
+      "slot_1based": 2,
+      "stroke": "D",
+      "time_sec": 15.0
+    },
+    {
+      "bar": 6,
+      "rhythm": "BALADI",
+      "slot_1based": 4,
+      "stroke": "T",
+      "time_sec": 15.731707
+    },
+    {
+      "bar": 6,
+      "rhythm": "BALADI",
+      "slot_1based": 5,
+      "stroke": "D",
+      "time_sec": 16.097561
+    },
+    {
+      "bar": 6,
+      "rhythm": "BALADI",
+      "slot_1based": 7,
+      "stroke": "T",
+      "time_sec": 16.829268
+    }
+  ]
+}

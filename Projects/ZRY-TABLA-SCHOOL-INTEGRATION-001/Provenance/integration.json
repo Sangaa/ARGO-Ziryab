@@ -1,0 +1,531 @@
+{
+  "lesson": "TABLA FOUNDATION INTEGRATION 001",
+  "bpm": 92.0,
+  "sequence": [
+    "MAQSUM",
+    "BALADI",
+    "SAIDI",
+    "MALFOUF",
+    "AYYOUB"
+  ],
+  "bars_per_rhythm": 2,
+  "humanization": "OFF",
+  "microtiming": "NONE",
+  "transition_rule": "last 4 x 1/16 slots = t k T M; next rhythm answers immediately on D",
+  "goal": "preserve rhythm identity across continuous transitions without dead silence",
+  "duration_sec": 21.32,
+  "events": [
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 1,
+      "stroke": "D",
+      "time": 0.0
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 3,
+      "stroke": "T",
+      "time": 0.326087
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 5,
+      "stroke": "K",
+      "time": 0.652174
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 7,
+      "stroke": "D",
+      "time": 0.978261
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 11,
+      "stroke": "T",
+      "time": 1.630435
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 13,
+      "stroke": "K",
+      "time": 1.956522
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 15,
+      "stroke": "T",
+      "time": 2.282609
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 16,
+      "stroke": "K",
+      "time": 2.445652
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 1,
+      "stroke": "D",
+      "time": 2.608696
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 3,
+      "stroke": "T",
+      "time": 2.934783
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 5,
+      "stroke": "K",
+      "time": 3.26087
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 7,
+      "stroke": "D",
+      "time": 3.586957
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 11,
+      "stroke": "T",
+      "time": 4.23913
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 13,
+      "stroke": "t",
+      "time": 4.565217,
+      "to": "BALADI"
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 14,
+      "stroke": "k",
+      "time": 4.728261,
+      "to": "BALADI"
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 15,
+      "stroke": "T",
+      "time": 4.891304,
+      "to": "BALADI"
+    },
+    {
+      "section": "MAQSUM",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 16,
+      "stroke": "M",
+      "time": 5.054348,
+      "to": "BALADI"
+    },
+    {
+      "section": "BALADI",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 1,
+      "stroke": "D",
+      "time": 5.217391
+    },
+    {
+      "section": "BALADI",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 3,
+      "stroke": "D",
+      "time": 5.543478
+    },
+    {
+      "section": "BALADI",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 7,
+      "stroke": "T",
+      "time": 6.195652
+    },
+    {
+      "section": "BALADI",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 9,
+      "stroke": "D",
+      "time": 6.521739
+    },
+    {
+      "section": "BALADI",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 13,
+      "stroke": "T",
+      "time": 7.173913
+    },
+    {
+      "section": "BALADI",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 1,
+      "stroke": "D",
+      "time": 7.826087
+    },
+    {
+      "section": "BALADI",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 3,
+      "stroke": "D",
+      "time": 8.152174
+    },
+    {
+      "section": "BALADI",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 7,
+      "stroke": "T",
+      "time": 8.804348
+    },
+    {
+      "section": "BALADI",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 9,
+      "stroke": "D",
+      "time": 9.130435
+    },
+    {
+      "section": "BALADI",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 13,
+      "stroke": "t",
+      "time": 9.782609,
+      "to": "SAIDI"
+    },
+    {
+      "section": "BALADI",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 14,
+      "stroke": "k",
+      "time": 9.945652,
+      "to": "SAIDI"
+    },
+    {
+      "section": "BALADI",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 15,
+      "stroke": "T",
+      "time": 10.108696,
+      "to": "SAIDI"
+    },
+    {
+      "section": "BALADI",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 16,
+      "stroke": "M",
+      "time": 10.271739,
+      "to": "SAIDI"
+    },
+    {
+      "section": "SAIDI",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 1,
+      "stroke": "D",
+      "time": 10.434783
+    },
+    {
+      "section": "SAIDI",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 3,
+      "stroke": "T",
+      "time": 10.76087
+    },
+    {
+      "section": "SAIDI",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 7,
+      "stroke": "D",
+      "time": 11.413043
+    },
+    {
+      "section": "SAIDI",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 9,
+      "stroke": "D",
+      "time": 11.73913
+    },
+    {
+      "section": "SAIDI",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 13,
+      "stroke": "T",
+      "time": 12.391304
+    },
+    {
+      "section": "SAIDI",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 1,
+      "stroke": "D",
+      "time": 13.043478
+    },
+    {
+      "section": "SAIDI",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 3,
+      "stroke": "T",
+      "time": 13.369565
+    },
+    {
+      "section": "SAIDI",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 7,
+      "stroke": "D",
+      "time": 14.021739
+    },
+    {
+      "section": "SAIDI",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 9,
+      "stroke": "D",
+      "time": 14.347826
+    },
+    {
+      "section": "SAIDI",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 13,
+      "stroke": "t",
+      "time": 15.0,
+      "to": "MALFOUF"
+    },
+    {
+      "section": "SAIDI",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 14,
+      "stroke": "k",
+      "time": 15.163043,
+      "to": "MALFOUF"
+    },
+    {
+      "section": "SAIDI",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 15,
+      "stroke": "T",
+      "time": 15.326087,
+      "to": "MALFOUF"
+    },
+    {
+      "section": "SAIDI",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 16,
+      "stroke": "M",
+      "time": 15.48913,
+      "to": "MALFOUF"
+    },
+    {
+      "section": "MALFOUF",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 1,
+      "stroke": "D",
+      "time": 15.652174
+    },
+    {
+      "section": "MALFOUF",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 4,
+      "stroke": "T",
+      "time": 16.141304
+    },
+    {
+      "section": "MALFOUF",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 7,
+      "stroke": "T",
+      "time": 16.630435
+    },
+    {
+      "section": "MALFOUF",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 1,
+      "stroke": "D",
+      "time": 16.956522
+    },
+    {
+      "section": "MALFOUF",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 4,
+      "stroke": "T",
+      "time": 17.445652
+    },
+    {
+      "section": "MALFOUF",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 5,
+      "stroke": "t",
+      "time": 17.608696,
+      "to": "AYYOUB"
+    },
+    {
+      "section": "MALFOUF",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 6,
+      "stroke": "k",
+      "time": 17.771739,
+      "to": "AYYOUB"
+    },
+    {
+      "section": "MALFOUF",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 7,
+      "stroke": "T",
+      "time": 17.934783,
+      "to": "AYYOUB"
+    },
+    {
+      "section": "MALFOUF",
+      "bar_in_section": 2,
+      "kind": "TRANSITION",
+      "slot": 8,
+      "stroke": "M",
+      "time": 18.097826,
+      "to": "AYYOUB"
+    },
+    {
+      "section": "AYYOUB",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 1,
+      "stroke": "D",
+      "time": 18.26087
+    },
+    {
+      "section": "AYYOUB",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 3,
+      "stroke": "K",
+      "time": 18.586957
+    },
+    {
+      "section": "AYYOUB",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 4,
+      "stroke": "D",
+      "time": 18.75
+    },
+    {
+      "section": "AYYOUB",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 6,
+      "stroke": "T",
+      "time": 19.076087
+    },
+    {
+      "section": "AYYOUB",
+      "bar_in_section": 1,
+      "kind": "BASE",
+      "slot": 8,
+      "stroke": "K",
+      "time": 19.402174
+    },
+    {
+      "section": "AYYOUB",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 1,
+      "stroke": "D",
+      "time": 19.565217
+    },
+    {
+      "section": "AYYOUB",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 3,
+      "stroke": "K",
+      "time": 19.891304
+    },
+    {
+      "section": "AYYOUB",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 4,
+      "stroke": "D",
+      "time": 20.054348
+    },
+    {
+      "section": "AYYOUB",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 6,
+      "stroke": "T",
+      "time": 20.380435
+    },
+    {
+      "section": "AYYOUB",
+      "bar_in_section": 2,
+      "kind": "BASE",
+      "slot": 8,
+      "stroke": "K",
+      "time": 20.706522
+    }
+  ]
+}

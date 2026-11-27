@@ -1,0 +1,18 @@
+{
+    "test_id":  "ZRY-LOCAL-SMOKE-002-AUTO",
+    "completed_at":  "2026-10-14T20:17:44.5850351+03:00",
+    "reaper_version":  "7.82",
+    "render_seconds":  2.58,
+    "reaper_marker":  "fx_index=0\r\nmidi=%ZIRYAB_STUDIO%/Projects/ZRY-LOCAL-SMOKE-002-AUTO/MIDI/ZRY-LOCAL-SMOKE-002-AUTO.mid\r\n",
+    "wav_bytes":  1588290,
+    "wav_sha256":  "53A05944CC5D581327EC4E44499DDD82C08008FFF37C2BAA71216459979A7876",
+    "check_wav":  {
+                      "wave_readable":  true,
+                      "nonzero_audio_bytes":  true,
+                      "channels":  2,
+                      "sample_rate":  44100,
+                      "sample_width":  3,
+                      "frames":  264600,
+                      "audio_sha256":  "721c9ff6dcd8588e3b39ddf9a2c433b82adca3b2da0b062957dbe842d57b4ad8"
+                  }
+}

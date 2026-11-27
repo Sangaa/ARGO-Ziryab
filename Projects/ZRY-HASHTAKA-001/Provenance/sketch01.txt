@@ -1,0 +1,15 @@
+title=HASHTAKA
+bpm=112
+bars=36
+duration_s=79.643
+mix_peak_dbfs=-6.00
+mix_rms_dbfs=-23.69
+hook=CALL/ANSWER; phrase mutation over repeated returns
+tabla=structural leader; maqsum-inspired; micro-breaks and fills
+numeric_seed=not forced into pitch; kept only as deterministic seed/accent concept
+tabla_events=262
+strand_nylon_events=208
+crux_bass_events=88
+lucent_flute_events=108
+helix_strings_events=64
+ratio_piano_events=24

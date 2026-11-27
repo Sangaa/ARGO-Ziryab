@@ -1,0 +1,345 @@
+{
+  "lesson": "AYYOUB CONTROLLED VARIATION 001",
+  "bpm": 100.0,
+  "meter": "2/4",
+  "base": "D - K D | - T - K",
+  "variation": "D t K D | k T - K",
+  "plan": [
+    "BASE",
+    "BASE",
+    "VAR",
+    "VAR",
+    "BASE",
+    "VAR",
+    "BASE",
+    "BASE"
+  ],
+  "humanization": "OFF",
+  "microtiming": "NONE",
+  "goal": "add minimal life without losing Ayyoub pull and anchor identity",
+  "articulation_boundary": "K = real Ka-category sample; NOT asserted KAH_LEFT",
+  "events": [
+    {
+      "bar": 1,
+      "pattern": "BASE",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 0.0
+    },
+    {
+      "bar": 1,
+      "pattern": "BASE",
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 0.3
+    },
+    {
+      "bar": 1,
+      "pattern": "BASE",
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 0.45
+    },
+    {
+      "bar": 1,
+      "pattern": "BASE",
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 0.75
+    },
+    {
+      "bar": 1,
+      "pattern": "BASE",
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 1.05
+    },
+    {
+      "bar": 2,
+      "pattern": "BASE",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 1.2
+    },
+    {
+      "bar": 2,
+      "pattern": "BASE",
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 1.5
+    },
+    {
+      "bar": 2,
+      "pattern": "BASE",
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 1.65
+    },
+    {
+      "bar": 2,
+      "pattern": "BASE",
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 1.95
+    },
+    {
+      "bar": 2,
+      "pattern": "BASE",
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 2.25
+    },
+    {
+      "bar": 3,
+      "pattern": "VAR",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 2.4
+    },
+    {
+      "bar": 3,
+      "pattern": "VAR",
+      "slot_1based": 2,
+      "stroke": "t",
+      "time_sec": 2.55
+    },
+    {
+      "bar": 3,
+      "pattern": "VAR",
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 2.7
+    },
+    {
+      "bar": 3,
+      "pattern": "VAR",
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 2.85
+    },
+    {
+      "bar": 3,
+      "pattern": "VAR",
+      "slot_1based": 5,
+      "stroke": "k",
+      "time_sec": 3.0
+    },
+    {
+      "bar": 3,
+      "pattern": "VAR",
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 3.15
+    },
+    {
+      "bar": 3,
+      "pattern": "VAR",
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 3.45
+    },
+    {
+      "bar": 4,
+      "pattern": "VAR",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 3.6
+    },
+    {
+      "bar": 4,
+      "pattern": "VAR",
+      "slot_1based": 2,
+      "stroke": "t",
+      "time_sec": 3.75
+    },
+    {
+      "bar": 4,
+      "pattern": "VAR",
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 3.9
+    },
+    {
+      "bar": 4,
+      "pattern": "VAR",
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 4.05
+    },
+    {
+      "bar": 4,
+      "pattern": "VAR",
+      "slot_1based": 5,
+      "stroke": "k",
+      "time_sec": 4.2
+    },
+    {
+      "bar": 4,
+      "pattern": "VAR",
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 4.35
+    },
+    {
+      "bar": 4,
+      "pattern": "VAR",
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 4.65
+    },
+    {
+      "bar": 5,
+      "pattern": "BASE",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 4.8
+    },
+    {
+      "bar": 5,
+      "pattern": "BASE",
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 5.1
+    },
+    {
+      "bar": 5,
+      "pattern": "BASE",
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 5.25
+    },
+    {
+      "bar": 5,
+      "pattern": "BASE",
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 5.55
+    },
+    {
+      "bar": 5,
+      "pattern": "BASE",
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 5.85
+    },
+    {
+      "bar": 6,
+      "pattern": "VAR",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 6.0
+    },
+    {
+      "bar": 6,
+      "pattern": "VAR",
+      "slot_1based": 2,
+      "stroke": "t",
+      "time_sec": 6.15
+    },
+    {
+      "bar": 6,
+      "pattern": "VAR",
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 6.3
+    },
+    {
+      "bar": 6,
+      "pattern": "VAR",
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 6.45
+    },
+    {
+      "bar": 6,
+      "pattern": "VAR",
+      "slot_1based": 5,
+      "stroke": "k",
+      "time_sec": 6.6
+    },
+    {
+      "bar": 6,
+      "pattern": "VAR",
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 6.75
+    },
+    {
+      "bar": 6,
+      "pattern": "VAR",
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 7.05
+    },
+    {
+      "bar": 7,
+      "pattern": "BASE",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 7.2
+    },
+    {
+      "bar": 7,
+      "pattern": "BASE",
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 7.5
+    },
+    {
+      "bar": 7,
+      "pattern": "BASE",
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 7.65
+    },
+    {
+      "bar": 7,
+      "pattern": "BASE",
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 7.95
+    },
+    {
+      "bar": 7,
+      "pattern": "BASE",
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 8.25
+    },
+    {
+      "bar": 8,
+      "pattern": "BASE",
+      "slot_1based": 1,
+      "stroke": "D",
+      "time_sec": 8.4
+    },
+    {
+      "bar": 8,
+      "pattern": "BASE",
+      "slot_1based": 3,
+      "stroke": "K",
+      "time_sec": 8.7
+    },
+    {
+      "bar": 8,
+      "pattern": "BASE",
+      "slot_1based": 4,
+      "stroke": "D",
+      "time_sec": 8.85
+    },
+    {
+      "bar": 8,
+      "pattern": "BASE",
+      "slot_1based": 6,
+      "stroke": "T",
+      "time_sec": 9.15
+    },
+    {
+      "bar": 8,
+      "pattern": "BASE",
+      "slot_1based": 8,
+      "stroke": "K",
+      "time_sec": 9.45
+    }
+  ]
+}
